@@ -1,0 +1,90 @@
+Sub ticker()
+  ' Set an initial variable for column titles
+  Dim ticker As String
+  
+  
+
+  ' Set an initial variable for each figure
+  Dim YearlyGrowth As Double
+  Dim YearlyPercentage As Double
+  Dim TotalVolume As Double
+  Dim OpenValue As Integer
+    
+  YearlyGrowth = 0
+  YearlyPercentage = 0
+  TotalVolume = 0
+  OpenValue = 0
+  
+  'Label Columns
+  Range("I1") = "Ticker"
+  Range("J1") = "Yearly Change"
+  Range("K1") = "Percentage Change"
+  Range("L1") = "Total Volume"
+  
+  
+  
+  
+  ' Keep track of the location for each ticker in the summary table
+  Dim Summary_Table_Row As Integer
+  Summary_Table_Row = 2
+
+  ' Loop through tickers
+   For i = 2 To (Range("A1").End(xlDown).Row)
+    
+    ' Check if we are still within the same credit card brand, if it is not...
+    If Cells(i + 1, 1).Value <> Cells(i, 1).Value Then
+
+      ' Set the Ticker
+      ticker = Cells(i, 1).Value
+
+      ' Calculate the Change and Percentage Change
+      YearlyGrowth = Cells(i, 5).Value - OpenValue
+      YearlyPercentage = (YearlyGrowth / OpenValue)
+      
+      
+
+      ' Assign Data to cells
+      Range("I" & Summary_Table_Row).Value = ticker
+
+      Range("J" & Summary_Table_Row).Value = YearlyGrowth
+      
+      Range("K" & Summary_Table_Row).Value = YearlyPercentage
+      
+      Range("L" & Summary_Table_Row).Value = TotalVolume
+      
+      If YearlyGrowth > 0 Then
+        Range("J" & Summary_Table_Row).Interior.Color = RGB(0, 255, 0)
+      Else
+        Range("J" & Summary_Table_Row).Interior.ColorIndex = 3
+        
+      End If
+        
+      ' Add one to the summary table row
+      Summary_Table_Row = Summary_Table_Row + 1
+      
+      'reset values to O
+      OpenValue = 0
+      TotalVolume = 0
+      
+      
+    ' If the cell immediately following a row is the same brand...
+    
+        
+    Else
+        
+        TotalVolume = TotalVolume + Cells(i, 7).Value
+        
+               
+        If OpenValue = 0 Then
+            OpenValue = Cells(i, 3).Value
+       
+        
+        End If
+           
+      ' Find and hold the open total on the first day
+        
+    End If
+    
+  Next i
+
+End Sub
