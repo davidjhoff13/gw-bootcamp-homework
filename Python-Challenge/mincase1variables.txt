@@ -1,0 +1,16 @@
+
+total_surveyed --- respondents to survey
+averageage -- of bootcamp attenders
+numattenders -- number of bootcamp attenders
+degreecount -- number of people with degreecount
+collegecount -- number of people with BA and above
+total_gender -- number of people who attended bootcamp and provided a gender
+malecount -- number of males who attended bootcamp 
+femalecount -- number of females who attended bootcamp 
+nonspecific -- number of people who did not provide a gender
+avg_salary -- average salary of the bootcamp attender
+percentdegree -- percentage of bootcamp attenders who had a BA or higher
+percentmale -- percentage of bootcamp attendees who are male
+percentfemale -- percentage of bootcamp attendees who are female
+percentnonspec -- percentage who did id as male or female or didn't respond
+percentattend -- percentage of respondents who attended a bootcamp
