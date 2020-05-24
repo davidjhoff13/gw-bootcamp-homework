@@ -1,0 +1,610 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,https://t.co/XoB8GW2BUO,Sun May 24 19:17:43 +0000 2020,0.0,0.0,1.0,0.0
+1,Fox News,https://t.co/W5ZecEtF15,Sun May 24 17:48:41 +0000 2020,0.0,0.0,1.0,0.0
+2,Fox News,https://t.co/JzcVtRfMlM,Sun May 24 15:39:12 +0000 2020,0.0,0.0,1.0,0.0
+3,Fox News,https://t.co/OsPwYIeATZ,Sun May 24 15:38:28 +0000 2020,0.0,0.0,1.0,0.0
+4,Fox News,https://t.co/vW4jCHMKXZ,Sun May 24 02:01:23 +0000 2020,0.0,0.0,1.0,0.0
+5,Fox News,https://t.co/NQQjOEYR1c,Sun May 24 00:02:57 +0000 2020,0.0,0.0,1.0,0.0
+6,Fox News,https://t.co/mm7Gicv67z,Sat May 23 23:52:27 +0000 2020,0.0,0.0,1.0,0.0
+7,Fox News,https://t.co/AOvlDFfb58,Sat May 23 22:47:15 +0000 2020,0.0,0.0,1.0,0.0
+8,Fox News,https://t.co/tdxiIcn9ZN,Sat May 23 21:03:23 +0000 2020,0.0,0.0,1.0,0.0
+9,Fox News,https://t.co/2qdU7FPo55,Sat May 23 18:57:31 +0000 2020,0.0,0.0,1.0,0.0
+10,Fox News,https://t.co/yXkmmxrt34,Sat May 23 15:46:42 +0000 2020,0.0,0.0,1.0,0.0
+11,Fox News,https://t.co/ho4UJ6V6JR,Sat May 23 14:55:20 +0000 2020,0.0,0.0,1.0,0.0
+12,Fox News,https://t.co/I3Y9DP8hq2,Sat May 23 13:27:25 +0000 2020,0.0,0.0,1.0,0.0
+13,Fox News,https://t.co/h7H27oi5ug,Sat May 23 12:37:16 +0000 2020,0.0,0.0,1.0,0.0
+14,Fox News,https://t.co/ycR6H7pa5T,Sat May 23 01:38:38 +0000 2020,0.0,0.0,1.0,0.0
+15,Fox News,https://t.co/R6EmLIRE1w,Sat May 23 00:59:44 +0000 2020,0.0,0.0,1.0,0.0
+16,Fox News,https://t.co/XKCbQxjdBq,Fri May 22 23:49:05 +0000 2020,0.0,0.0,1.0,0.0
+17,Fox News,RT @foxnation: TONIGHT: @cmorganmusic will perform live on Fox Nation. Tune in for the special tribute to our fallen heroes starting at 8p…,Fri May 22 23:15:08 +0000 2020,0.5423,0.211,0.702,0.088
+18,Fox News,https://t.co/Cob58yjFON,Fri May 22 21:10:28 +0000 2020,0.0,0.0,1.0,0.0
+19,Fox News,https://t.co/uumNtSskqD,Fri May 22 19:59:52 +0000 2020,0.0,0.0,1.0,0.0
+20,CNN,Self-serve buffets and all-you-can-eat salad bars are facing an increasingly uncertain future amid the coronavirus… https://t.co/TsC4DIAzwP,Sun May 24 19:01:08 +0000 2020,-0.296,0.0,0.872,0.128
+21,CNN,"Coronavirus — and the experience of the fear, grief and isolation that accompany it — may help to forge a closer an… https://t.co/JXfTSiL0Hk",Sun May 24 18:31:05 +0000 2020,-0.7506,0.088,0.617,0.295
+22,CNN,.@FareedZakaria investigates China and Covid-19. Discover what he learned in the new CNN Special Report – China’s D… https://t.co/6QSnYAPYiS,Sun May 24 18:00:18 +0000 2020,0.4019,0.13,0.87,0.0
+23,CNN,"Joe Biden is now talking about a bolder presidency. And there is a growing sense in Democratic circles, particularl… https://t.co/61IzeGLNEe",Sun May 24 17:46:02 +0000 2020,0.4404,0.178,0.822,0.0
+24,CNN,"Now that Ramadan has ended, Eid al-Fitr, one of the most festive holidays in Islam, will be a somber affair, just l… https://t.co/0H8ANy0qBc",Sun May 24 17:31:06 +0000 2020,0.5222,0.213,0.69,0.097
+25,CNN,"New Jersey Gov. Phil Murphy has warned that key employees — including health care workers, firefighters, police off… https://t.co/Osj080LxQy",Sun May 24 17:16:06 +0000 2020,0.2732,0.143,0.762,0.094
+26,CNN,"The folks at Gatorland have introduced Skunk Ape, a mascot that aims to help the Florida animal park's visitors get… https://t.co/8C5mSdrQk9",Sun May 24 17:01:03 +0000 2020,0.4019,0.119,0.881,0.0
+27,CNN,"Roger Federer thinks the professional tennis circuit won't return for a while due to the coronavirus pandemic but,… https://t.co/mFmUgahP0W",Sun May 24 16:46:03 +0000 2020,0.0,0.0,1.0,0.0
+28,CNN,A federal appeals court has rejected a California church's lawsuit hoping to overturn the state's ban on in-person… https://t.co/RhBteUzFvs,Sun May 24 16:33:27 +0000 2020,-0.7184,0.105,0.564,0.331
+29,CNN,The judge who is overseeing former national security adviser Michael Flynn's criminal lying case has retained a Was… https://t.co/ST1OyZNJ6y,Sun May 24 16:31:05 +0000 2020,-0.6486,0.138,0.593,0.269
+30,CNN,"Eddie Sutton, the first college basketball coach to lead four different schools to the NCAA tournament, died on Sat… https://t.co/xSpI482694",Sun May 24 16:20:12 +0000 2020,-0.5574,0.0,0.841,0.159
+31,CNN,"Just because you can go to the beach or bars doesn't mean it's time to let your guard down. In fact, some states ar… https://t.co/wiHMrxBgOF",Sun May 24 16:16:03 +0000 2020,0.0,0.0,1.0,0.0
+32,CNN,"""The concept of a fun, long weekend seems like a quaint relic after months of lockdown and grief for so many, and i… https://t.co/ewKmTYoJVV",Sun May 24 16:01:03 +0000 2020,0.3818,0.193,0.7,0.107
+33,CNN,"""With the country starting to open up this holiday weekend, I again remind everyone that the coronavirus is not yet… https://t.co/eu9vkjnj1R",Sun May 24 15:46:03 +0000 2020,0.481,0.135,0.865,0.0
+34,CNN,"The Trump administration is likely to announce new restrictions on travel to Brazil, according to national security… https://t.co/pVfUqMqt4r",Sun May 24 15:31:06 +0000 2020,0.0,0.0,1.0,0.0
+35,CNN,"RT @CNNSotu: ""We have to social distance, we have to wear a mask, we have to open our economy, we have to do it safely. So absolutely, shou…",Sun May 24 15:18:51 +0000 2020,0.4939,0.106,0.894,0.0
+36,CNN,"Certain areas across the US are reporting ""an increase in rodent activity,"" as rats search for sources of food othe… https://t.co/VmVrR8qC6y",Sun May 24 15:16:04 +0000 2020,0.5267,0.188,0.812,0.0
+37,CNN,"Several people who attended a high school swim party in Arkansas have contracted Covid-19, Gov. Asa Hutchinson said… https://t.co/EerFxeJtHM",Sun May 24 15:01:04 +0000 2020,0.4019,0.13,0.87,0.0
+38,CNN,"Far from hospitals and often lacking basic infrastructure, Brazil's indigenous people are dying at an alarming rate… https://t.co/v8jkFi8LmE",Sun May 24 14:46:03 +0000 2020,-0.128,0.0,0.919,0.081
+39,CNN,"“We’ve got some way to go,” says Stewart Simonson of the WHO on the global state of coronavirus.
+He adds that as th… https://t.co/tBLgB9WRoM",Sun May 24 14:41:49 +0000 2020,0.0,0.0,1.0,0.0
+40,BBC News (World),"Afghanistan announces release of up to 2,000 Taliban prisoners amid Eid al-Fitr ceasefire https://t.co/EMPBg4ixQY",Sun May 24 17:55:03 +0000 2020,-0.5106,0.0,0.798,0.202
+41,BBC News (World),"Trial of Israeli Prime Minister Benjamin Netanyahu opens in Jerusalem, days after he began a new term in office
+
+https://t.co/IIlUm0aiOG",Sun May 24 16:48:37 +0000 2020,0.0,0.0,1.0,0.0
+42,BBC News (World),"The world's deepest gold mine closes after an outbreak of coronavirus among workers
+
+https://t.co/ewnEEr3LLV",Sun May 24 15:32:17 +0000 2020,0.0,0.0,1.0,0.0
+43,BBC News (World),"China accuses US of spreading coronavirus 'conspiracies' 
+https://t.co/xcZTUzPylc",Sun May 24 15:27:18 +0000 2020,-0.34,0.0,0.745,0.255
+44,BBC News (World),"Air France promises to halve domestic emissions of carbon dioxide in the next four years, in return for state loan… https://t.co/2ptooaLN3w",Sun May 24 12:40:27 +0000 2020,0.3818,0.115,0.885,0.0
+45,BBC News (World),"RT @BBCNews: Funeral for Law student Aya Hachem held, in Lebanon https://t.co/FKvUwYBaro",Sun May 24 11:54:14 +0000 2020,-0.3612,0.0,0.815,0.185
+46,BBC News (World),Iran oil tanker reaches Venezuela amid US tension https://t.co/BOQ1wK3g1F,Sun May 24 11:53:38 +0000 2020,-0.2732,0.114,0.667,0.219
+47,BBC News (World),RT @BBCAfrica: Eid al-Fitr celebrations in Africa - amid coronavirus https://t.co/i5aRhf3DtP,Sun May 24 11:51:53 +0000 2020,0.0,0.0,1.0,0.0
+48,BBC News (World),"RT @BBCNews: Do police sketches actually help catch criminals?
+
+https://t.co/DcfWfp8ukV https://t.co/gLc4A1OjSF",Sun May 24 10:52:15 +0000 2020,-0.25,0.175,0.584,0.24
+49,BBC News (World),"Astronauts complete rehearsal for historic Nasa SpaceX mission 
+
+https://t.co/iieVcP6Dda",Sun May 24 10:01:00 +0000 2020,0.0,0.0,1.0,0.0
+50,BBC News (World),"French health minister orders review into use of hydroxychloroquine, after study suggests it has raised mortality r… https://t.co/cJBBr8bmn7",Sun May 24 09:59:05 +0000 2020,0.0,0.0,1.0,0.0
+51,BBC News (World),"RT @BBCNews: ""Coronavirus has been described as an invisible killer. What could be more terrifying than that?""
+
+@NickTriggle asks: ""How sca…",Sun May 24 09:12:07 +0000 2020,-0.8516,0.0,0.696,0.304
+52,BBC News (World),Police in Hong Kong fire tear gas against protesters taking part in the first pro-democracy demonstration since Chi… https://t.co/KrboSGaqv1,Sun May 24 08:06:01 +0000 2020,-0.4404,0.065,0.737,0.198
+53,BBC News (World),"On 27 May, two US astronauts are expected to launch to the International Space Station aboard a SpaceX capsule
+
+Wha… https://t.co/XyjXyb1qUD",Sun May 24 08:04:57 +0000 2020,0.0258,0.052,0.948,0.0
+54,BBC News (World),"RT @BBCIndia: Death and despair on Indian roads as migrants flee cities, some walking hundreds of miles, trying to get home.
+
+Some never ma…",Sun May 24 07:20:51 +0000 2020,-0.7351,0.0,0.78,0.22
+55,BBC News (World),Netanyahu trial: Israeli prime minister faces Jerusalem court https://t.co/yX0RGpsBoF,Sun May 24 05:28:13 +0000 2020,0.0,0.0,1.0,0.0
+56,BBC News (World),Western Australia prepares for 'once-in-a-decade' storm https://t.co/kV8IMzAYJH,Sun May 24 03:31:04 +0000 2020,0.0,0.0,1.0,0.0
+57,BBC News (World),Hong Kong: World political figures condemn China's security law plan https://t.co/ozAtx7qBSU,Sun May 24 01:31:49 +0000 2020,-0.0516,0.171,0.643,0.186
+58,BBC News (World),LG Polymers: Was negligence behind India's deadly gas leak? https://t.co/NuhSyuHEYO,Sun May 24 00:17:34 +0000 2020,-0.34,0.0,0.789,0.211
+59,BBC News (World),Coronavirus: Why reopening French schools is a social emergency https://t.co/colF4zL8Ei,Sun May 24 00:15:17 +0000 2020,-0.3818,0.0,0.776,0.224
+60,CBS News,WATCH: A bagpiper walked around the outside of an Indiana senior living community Wednesday and gave residents quit… https://t.co/Cm9MpUHaMe,Sun May 24 19:00:00 +0000 2020,0.0,0.0,1.0,0.0
+61,CBS News,"TRUE LOVE: This teen was given 3-5 months to live. So, he married the love of his life in her parents' driveway ❤️… https://t.co/296M8U08vU",Sun May 24 18:30:00 +0000 2020,0.9283,0.365,0.635,0.0
+62,CBS News,"WATCH: 10-month-old Liv is one of the youngest babies to get a Cochlear Implant, letting her hear her mom's voice f… https://t.co/yPAGsb2X5f",Sun May 24 18:30:00 +0000 2020,0.0,0.0,1.0,0.0
+63,CBS News,"How to participate in Steve Hartman's ""Taps Across America"" https://t.co/FSzsUauznW https://t.co/M7qjCpJwOT",Sun May 24 18:14:31 +0000 2020,0.0,0.0,1.0,0.0
+64,CBS News,"Meet Biscuits and Gravy, the kitten with two faces born in Oregon https://t.co/nJC42wepQM https://t.co/HgRN2aMpO5",Sun May 24 18:12:36 +0000 2020,0.0,0.0,1.0,0.0
+65,CBS News,This restaurant in Maryland debuted bumper tables to help maintain social distancing requirements when they reopen.… https://t.co/btz1uI21fV,Sun May 24 18:00:00 +0000 2020,0.4019,0.144,0.856,0.0
+66,CBS News,Boston Fed president predicts double-digit unemployment through end of year https://t.co/QWrTqEN3SP https://t.co/umGLhsB9f7,Sun May 24 17:43:43 +0000 2020,-0.4404,0.0,0.791,0.209
+67,CBS News,This curious German squirrel now has its own miniature beer garden thanks to a 10-year-old boy —  and it is simply… https://t.co/CayOCqKUxm,Sun May 24 17:30:00 +0000 2020,0.6369,0.206,0.794,0.0
+68,CBS News,"Meet Biscuits and Gravy, the kitten with two faces born in Oregon https://t.co/nJC42wepQM https://t.co/BALjCZbMwc https://t.co/BJu2lftQG3",Sun May 24 17:00:01 +0000 2020,0.0,0.0,1.0,0.0
+69,CBS News,"Ex-FDA chief Scott Gottlieb warns coronavirus ""isn't contained yet"" https://t.co/h6Vi5SEPqG https://t.co/v1c28vhc2M",Sun May 24 16:32:03 +0000 2020,-0.1027,0.0,0.877,0.123
+70,CBS News,"WATCH: Prince William and Kate hosted a virtual bingo game for a senior living home, and shared a laugh with the re… https://t.co/2jvddUEUXQ",Sun May 24 16:30:00 +0000 2020,0.7184,0.222,0.778,0.0
+71,CBS News,New York Gov. Cuomo says starting today New York professional sports leagues will be able to begin training camps… https://t.co/5oC3mqraiz,Sun May 24 16:12:02 +0000 2020,0.0,0.0,1.0,0.0
+72,CBS News,"While his wife is on bed rest in the hospital, this husband has been setting up ""date nights"" outside of her window… https://t.co/quktRp74Zu",Sun May 24 16:00:00 +0000 2020,0.0,0.0,1.0,0.0
+73,CBS News,"RT @FaceTheNation: As Trump is seen not wearing protective masks, @scottgottliebMD says ""elected leaders should be setting a strong example…",Sun May 24 15:56:56 +0000 2020,0.5106,0.148,0.852,0.0
+74,CBS News,RT @FaceTheNation: COVID MISSTEPS: Former @DHSGov Secretary Michael Chertoff tells @margbrennan an area of shortfall for the current admini…,Sun May 24 15:56:26 +0000 2020,0.0,0.0,1.0,0.0
+75,CBS News,"RT @CBSSunday: In case you missed the full edition of our #sundaymorning broadcast, on this May 24, 2020, you can catch it in its entirety…",Sun May 24 15:40:03 +0000 2020,-0.296,0.0,0.916,0.084
+76,CBS News,More than 170 students in Manila were able to “walk” across the stage during their virtual graduation ceremony — th… https://t.co/KbcZ79nbqV,Sun May 24 15:35:00 +0000 2020,0.0,0.0,1.0,0.0
+77,CBS News,Trump and Jeff Sessions trade barbs over Twitter https://t.co/twfm4h1Y5d https://t.co/i9UajGehiD,Sun May 24 15:25:22 +0000 2020,0.0,0.0,1.0,0.0
+78,CBS News,"Trump campaign flying ""Keep America Great"" aerial banners Memorial Day weekend  https://t.co/4UIYaxcftm https://t.co/ECVKuGhdjU",Sun May 24 14:41:23 +0000 2020,0.6249,0.255,0.745,0.0
+79,CBS News,"RT @FaceTheNation: If China develops a #COVID vaccine for the U.S., would it be available to the American public? 
+
+Robert O'Brien: ""I thin…",Sun May 24 14:32:44 +0000 2020,0.0,0.0,1.0,0.0
+80,The New York Times,"Across the United States, concert promoters, theater presenters, orchestras and dance companies are ripping up thei… https://t.co/ig7FkrJJGW",Sun May 24 19:02:05 +0000 2020,0.4215,0.149,0.851,0.0
+81,The New York Times,"Elizabeth Warren agreed to host an online gathering of donors for Joe Biden, the presumptive Democratic nominee, wh… https://t.co/wrT73prwlm",Sun May 24 18:20:03 +0000 2020,0.2732,0.104,0.896,0.0
+82,The New York Times,"Strap a rocket to the underside of a plane. Fly it up several miles. Drop it. The engine ignites, and the rocket an… https://t.co/AYaaV1RhHY",Sun May 24 17:58:28 +0000 2020,-0.2732,0.0,0.916,0.084
+83,The New York Times,11-year-old Gui Khury landed a 1080. Twice. One of the most exciting parts? Hearing from Tony Hawk.… https://t.co/PwQNypPL9I,Sun May 24 17:29:44 +0000 2020,0.5413,0.17,0.83,0.0
+84,The New York Times,The question of what went wrong at the Holyoke Soldiers’ Home will be with Massachusetts for a long time.… https://t.co/p6bc2tF7ZL,Sun May 24 17:29:29 +0000 2020,-0.4767,0.0,0.86,0.14
+85,The New York Times,"Multiple investigations have been opened, 2 of which seek to determine whether state officials should be charged wi… https://t.co/Rp6xry659i",Sun May 24 17:29:28 +0000 2020,-0.2023,0.0,0.909,0.091
+86,The New York Times,"Emilio DiPalma, another Holyoke Soldiers’ Home resident, was a 19-year-old Army staff sergeant when he guarded Herm… https://t.co/nFMTCTZF23",Sun May 24 17:29:27 +0000 2020,0.0,0.0,1.0,0.0
+87,The New York Times,"James Miller, who survived what was for Americans the bloodiest battle of World War II, died of complications from… https://t.co/QirK5q2nym",Sun May 24 17:29:27 +0000 2020,-0.7783,0.112,0.544,0.344
+88,The New York Times,"Of the 210 veterans who were living in the facility in late March, 89 are now dead, 74 having tested positive for t… https://t.co/ECoh0laTmq",Sun May 24 17:29:26 +0000 2020,-0.1779,0.12,0.736,0.144
+89,The New York Times,Inside the Holyoke Soldiers’ Home was a man who served as jailer to Hitler’s right-hand man. A man who rescued Japa… https://t.co/i1JjTVsSek,Sun May 24 17:29:25 +0000 2020,0.4215,0.118,0.882,0.0
+90,The New York Times,"RT @simonelandon: We put 1,000 names in the paper, 1 percent of those who have died. Online, we're emphasizing their stories. https://t.co/…",Sun May 24 17:15:11 +0000 2020,-0.5574,0.0,0.854,0.146
+91,The New York Times,"As President Trump pushes for places of worship to reopen, religious leaders across the U.S. are navigating the ten… https://t.co/1GNF4wIsKp",Sun May 24 17:00:03 +0000 2020,0.296,0.104,0.896,0.0
+92,The New York Times,"In Frankfurt, Germany, 40 new cases of the coronavirus were confirmed among churchgoers. France restarted church se… https://t.co/H9anaaPgNm",Sun May 24 16:29:07 +0000 2020,0.0,0.0,1.0,0.0
+93,The New York Times,RT @MichaelPaulson: Say farewell to the fall culture season: many of the nation’s biggest live performance producers and presenters are del…,Sun May 24 16:27:23 +0000 2020,0.0,0.0,1.0,0.0
+94,The New York Times,"For today, May 24, here’s how to follow the latest on the coronavirus outbreak. 
+
+🌎 Live updates from around the wo… https://t.co/rdKTgynUfF",Sun May 24 16:10:08 +0000 2020,0.0,0.0,1.0,0.0
+95,The New York Times,"Hurricane season begins in June, and it's expected to be an active one. Emergency planners in Florida are trying to… https://t.co/uC0xIYcNGo",Sun May 24 16:00:08 +0000 2020,0.0258,0.111,0.782,0.107
+96,The New York Times,"Compared to white or Hispanic patients, black patients seeking care in the United States have more advanced cases o… https://t.co/eBoX3WYmyj",Sun May 24 15:30:07 +0000 2020,0.807,0.328,0.672,0.0
+97,The New York Times,"A group of worst-case scenario planners — mostly Democrats, but also some anti-Trump Republicans — have been gaming… https://t.co/dA5gnaIfMM",Sun May 24 15:11:04 +0000 2020,0.0,0.0,1.0,0.0
+98,The New York Times,"Memories, gathered from obituaries across America, help us reckon with what was lost. https://t.co/rMPXCclIYv",Sun May 24 14:55:52 +0000 2020,0.1027,0.159,0.706,0.135
+99,The New York Times,"""One hundred thousand,"" writes @DanBarryNYT.
+
+""The immensity of such a sudden toll taxes our ability to comprehend,… https://t.co/GzhgBDaTJI",Sun May 24 14:55:30 +0000 2020,0.3182,0.119,0.881,0.0
+100,Fox News,https://t.co/XoB8GW2BUO,Sun May 24 19:17:43 +0000 2020,0.0,0.0,1.0,0.0
+101,Fox News,https://t.co/W5ZecEtF15,Sun May 24 17:48:41 +0000 2020,0.0,0.0,1.0,0.0
+102,Fox News,https://t.co/JzcVtRfMlM,Sun May 24 15:39:12 +0000 2020,0.0,0.0,1.0,0.0
+103,Fox News,https://t.co/OsPwYIeATZ,Sun May 24 15:38:28 +0000 2020,0.0,0.0,1.0,0.0
+104,Fox News,https://t.co/vW4jCHMKXZ,Sun May 24 02:01:23 +0000 2020,0.0,0.0,1.0,0.0
+105,Fox News,https://t.co/NQQjOEYR1c,Sun May 24 00:02:57 +0000 2020,0.0,0.0,1.0,0.0
+106,Fox News,https://t.co/mm7Gicv67z,Sat May 23 23:52:27 +0000 2020,0.0,0.0,1.0,0.0
+107,Fox News,https://t.co/AOvlDFfb58,Sat May 23 22:47:15 +0000 2020,0.0,0.0,1.0,0.0
+108,Fox News,https://t.co/tdxiIcn9ZN,Sat May 23 21:03:23 +0000 2020,0.0,0.0,1.0,0.0
+109,Fox News,https://t.co/2qdU7FPo55,Sat May 23 18:57:31 +0000 2020,0.0,0.0,1.0,0.0
+110,Fox News,https://t.co/yXkmmxrt34,Sat May 23 15:46:42 +0000 2020,0.0,0.0,1.0,0.0
+111,Fox News,https://t.co/ho4UJ6V6JR,Sat May 23 14:55:20 +0000 2020,0.0,0.0,1.0,0.0
+112,Fox News,https://t.co/I3Y9DP8hq2,Sat May 23 13:27:25 +0000 2020,0.0,0.0,1.0,0.0
+113,Fox News,https://t.co/h7H27oi5ug,Sat May 23 12:37:16 +0000 2020,0.0,0.0,1.0,0.0
+114,Fox News,https://t.co/ycR6H7pa5T,Sat May 23 01:38:38 +0000 2020,0.0,0.0,1.0,0.0
+115,Fox News,https://t.co/R6EmLIRE1w,Sat May 23 00:59:44 +0000 2020,0.0,0.0,1.0,0.0
+116,Fox News,https://t.co/XKCbQxjdBq,Fri May 22 23:49:05 +0000 2020,0.0,0.0,1.0,0.0
+117,Fox News,RT @foxnation: TONIGHT: @cmorganmusic will perform live on Fox Nation. Tune in for the special tribute to our fallen heroes starting at 8p…,Fri May 22 23:15:08 +0000 2020,0.5423,0.211,0.702,0.088
+118,Fox News,https://t.co/Cob58yjFON,Fri May 22 21:10:28 +0000 2020,0.0,0.0,1.0,0.0
+119,Fox News,https://t.co/uumNtSskqD,Fri May 22 19:59:52 +0000 2020,0.0,0.0,1.0,0.0
+120,CNN,Self-serve buffets and all-you-can-eat salad bars are facing an increasingly uncertain future amid the coronavirus… https://t.co/TsC4DIAzwP,Sun May 24 19:01:08 +0000 2020,-0.296,0.0,0.872,0.128
+121,CNN,"Coronavirus — and the experience of the fear, grief and isolation that accompany it — may help to forge a closer an… https://t.co/JXfTSiL0Hk",Sun May 24 18:31:05 +0000 2020,-0.7506,0.088,0.617,0.295
+122,CNN,.@FareedZakaria investigates China and Covid-19. Discover what he learned in the new CNN Special Report – China’s D… https://t.co/6QSnYAPYiS,Sun May 24 18:00:18 +0000 2020,0.4019,0.13,0.87,0.0
+123,CNN,"Joe Biden is now talking about a bolder presidency. And there is a growing sense in Democratic circles, particularl… https://t.co/61IzeGLNEe",Sun May 24 17:46:02 +0000 2020,0.4404,0.178,0.822,0.0
+124,CNN,"Now that Ramadan has ended, Eid al-Fitr, one of the most festive holidays in Islam, will be a somber affair, just l… https://t.co/0H8ANy0qBc",Sun May 24 17:31:06 +0000 2020,0.5222,0.213,0.69,0.097
+125,CNN,"New Jersey Gov. Phil Murphy has warned that key employees — including health care workers, firefighters, police off… https://t.co/Osj080LxQy",Sun May 24 17:16:06 +0000 2020,0.2732,0.143,0.762,0.094
+126,CNN,"The folks at Gatorland have introduced Skunk Ape, a mascot that aims to help the Florida animal park's visitors get… https://t.co/8C5mSdrQk9",Sun May 24 17:01:03 +0000 2020,0.4019,0.119,0.881,0.0
+127,CNN,"Roger Federer thinks the professional tennis circuit won't return for a while due to the coronavirus pandemic but,… https://t.co/mFmUgahP0W",Sun May 24 16:46:03 +0000 2020,0.0,0.0,1.0,0.0
+128,CNN,A federal appeals court has rejected a California church's lawsuit hoping to overturn the state's ban on in-person… https://t.co/RhBteUzFvs,Sun May 24 16:33:27 +0000 2020,-0.7184,0.105,0.564,0.331
+129,CNN,The judge who is overseeing former national security adviser Michael Flynn's criminal lying case has retained a Was… https://t.co/ST1OyZNJ6y,Sun May 24 16:31:05 +0000 2020,-0.6486,0.138,0.593,0.269
+130,CNN,"Eddie Sutton, the first college basketball coach to lead four different schools to the NCAA tournament, died on Sat… https://t.co/xSpI482694",Sun May 24 16:20:12 +0000 2020,-0.5574,0.0,0.841,0.159
+131,CNN,"Just because you can go to the beach or bars doesn't mean it's time to let your guard down. In fact, some states ar… https://t.co/wiHMrxBgOF",Sun May 24 16:16:03 +0000 2020,0.0,0.0,1.0,0.0
+132,CNN,"""The concept of a fun, long weekend seems like a quaint relic after months of lockdown and grief for so many, and i… https://t.co/ewKmTYoJVV",Sun May 24 16:01:03 +0000 2020,0.3818,0.193,0.7,0.107
+133,CNN,"""With the country starting to open up this holiday weekend, I again remind everyone that the coronavirus is not yet… https://t.co/eu9vkjnj1R",Sun May 24 15:46:03 +0000 2020,0.481,0.135,0.865,0.0
+134,CNN,"The Trump administration is likely to announce new restrictions on travel to Brazil, according to national security… https://t.co/pVfUqMqt4r",Sun May 24 15:31:06 +0000 2020,0.0,0.0,1.0,0.0
+135,CNN,"RT @CNNSotu: ""We have to social distance, we have to wear a mask, we have to open our economy, we have to do it safely. So absolutely, shou…",Sun May 24 15:18:51 +0000 2020,0.4939,0.106,0.894,0.0
+136,CNN,"Certain areas across the US are reporting ""an increase in rodent activity,"" as rats search for sources of food othe… https://t.co/VmVrR8qC6y",Sun May 24 15:16:04 +0000 2020,0.5267,0.188,0.812,0.0
+137,CNN,"Several people who attended a high school swim party in Arkansas have contracted Covid-19, Gov. Asa Hutchinson said… https://t.co/EerFxeJtHM",Sun May 24 15:01:04 +0000 2020,0.4019,0.13,0.87,0.0
+138,CNN,"Far from hospitals and often lacking basic infrastructure, Brazil's indigenous people are dying at an alarming rate… https://t.co/v8jkFi8LmE",Sun May 24 14:46:03 +0000 2020,-0.128,0.0,0.919,0.081
+139,CNN,"“We’ve got some way to go,” says Stewart Simonson of the WHO on the global state of coronavirus.
+He adds that as th… https://t.co/tBLgB9WRoM",Sun May 24 14:41:49 +0000 2020,0.0,0.0,1.0,0.0
+140,BBC News (World),"Afghanistan announces release of up to 2,000 Taliban prisoners amid Eid al-Fitr ceasefire https://t.co/EMPBg4ixQY",Sun May 24 17:55:03 +0000 2020,-0.5106,0.0,0.798,0.202
+141,BBC News (World),"Trial of Israeli Prime Minister Benjamin Netanyahu opens in Jerusalem, days after he began a new term in office
+
+https://t.co/IIlUm0aiOG",Sun May 24 16:48:37 +0000 2020,0.0,0.0,1.0,0.0
+142,BBC News (World),"The world's deepest gold mine closes after an outbreak of coronavirus among workers
+
+https://t.co/ewnEEr3LLV",Sun May 24 15:32:17 +0000 2020,0.0,0.0,1.0,0.0
+143,BBC News (World),"China accuses US of spreading coronavirus 'conspiracies' 
+https://t.co/xcZTUzPylc",Sun May 24 15:27:18 +0000 2020,-0.34,0.0,0.745,0.255
+144,BBC News (World),"Air France promises to halve domestic emissions of carbon dioxide in the next four years, in return for state loan… https://t.co/2ptooaLN3w",Sun May 24 12:40:27 +0000 2020,0.3818,0.115,0.885,0.0
+145,BBC News (World),"RT @BBCNews: Funeral for Law student Aya Hachem held, in Lebanon https://t.co/FKvUwYBaro",Sun May 24 11:54:14 +0000 2020,-0.3612,0.0,0.815,0.185
+146,BBC News (World),Iran oil tanker reaches Venezuela amid US tension https://t.co/BOQ1wK3g1F,Sun May 24 11:53:38 +0000 2020,-0.2732,0.114,0.667,0.219
+147,BBC News (World),RT @BBCAfrica: Eid al-Fitr celebrations in Africa - amid coronavirus https://t.co/i5aRhf3DtP,Sun May 24 11:51:53 +0000 2020,0.0,0.0,1.0,0.0
+148,BBC News (World),"RT @BBCNews: Do police sketches actually help catch criminals?
+
+https://t.co/DcfWfp8ukV https://t.co/gLc4A1OjSF",Sun May 24 10:52:15 +0000 2020,-0.25,0.175,0.584,0.24
+149,BBC News (World),"Astronauts complete rehearsal for historic Nasa SpaceX mission 
+
+https://t.co/iieVcP6Dda",Sun May 24 10:01:00 +0000 2020,0.0,0.0,1.0,0.0
+150,BBC News (World),"French health minister orders review into use of hydroxychloroquine, after study suggests it has raised mortality r… https://t.co/cJBBr8bmn7",Sun May 24 09:59:05 +0000 2020,0.0,0.0,1.0,0.0
+151,BBC News (World),"RT @BBCNews: ""Coronavirus has been described as an invisible killer. What could be more terrifying than that?""
+
+@NickTriggle asks: ""How sca…",Sun May 24 09:12:07 +0000 2020,-0.8516,0.0,0.696,0.304
+152,BBC News (World),Police in Hong Kong fire tear gas against protesters taking part in the first pro-democracy demonstration since Chi… https://t.co/KrboSGaqv1,Sun May 24 08:06:01 +0000 2020,-0.4404,0.065,0.737,0.198
+153,BBC News (World),"On 27 May, two US astronauts are expected to launch to the International Space Station aboard a SpaceX capsule
+
+Wha… https://t.co/XyjXyb1qUD",Sun May 24 08:04:57 +0000 2020,0.0258,0.052,0.948,0.0
+154,BBC News (World),"RT @BBCIndia: Death and despair on Indian roads as migrants flee cities, some walking hundreds of miles, trying to get home.
+
+Some never ma…",Sun May 24 07:20:51 +0000 2020,-0.7351,0.0,0.78,0.22
+155,BBC News (World),Netanyahu trial: Israeli prime minister faces Jerusalem court https://t.co/yX0RGpsBoF,Sun May 24 05:28:13 +0000 2020,0.0,0.0,1.0,0.0
+156,BBC News (World),Western Australia prepares for 'once-in-a-decade' storm https://t.co/kV8IMzAYJH,Sun May 24 03:31:04 +0000 2020,0.0,0.0,1.0,0.0
+157,BBC News (World),Hong Kong: World political figures condemn China's security law plan https://t.co/ozAtx7qBSU,Sun May 24 01:31:49 +0000 2020,-0.0516,0.171,0.643,0.186
+158,BBC News (World),LG Polymers: Was negligence behind India's deadly gas leak? https://t.co/NuhSyuHEYO,Sun May 24 00:17:34 +0000 2020,-0.34,0.0,0.789,0.211
+159,BBC News (World),Coronavirus: Why reopening French schools is a social emergency https://t.co/colF4zL8Ei,Sun May 24 00:15:17 +0000 2020,-0.3818,0.0,0.776,0.224
+160,CBS News,WATCH: A bagpiper walked around the outside of an Indiana senior living community Wednesday and gave residents quit… https://t.co/Cm9MpUHaMe,Sun May 24 19:00:00 +0000 2020,0.0,0.0,1.0,0.0
+161,CBS News,"TRUE LOVE: This teen was given 3-5 months to live. So, he married the love of his life in her parents' driveway ❤️… https://t.co/296M8U08vU",Sun May 24 18:30:00 +0000 2020,0.9283,0.365,0.635,0.0
+162,CBS News,"WATCH: 10-month-old Liv is one of the youngest babies to get a Cochlear Implant, letting her hear her mom's voice f… https://t.co/yPAGsb2X5f",Sun May 24 18:30:00 +0000 2020,0.0,0.0,1.0,0.0
+163,CBS News,"How to participate in Steve Hartman's ""Taps Across America"" https://t.co/FSzsUauznW https://t.co/M7qjCpJwOT",Sun May 24 18:14:31 +0000 2020,0.0,0.0,1.0,0.0
+164,CBS News,"Meet Biscuits and Gravy, the kitten with two faces born in Oregon https://t.co/nJC42wepQM https://t.co/HgRN2aMpO5",Sun May 24 18:12:36 +0000 2020,0.0,0.0,1.0,0.0
+165,CBS News,This restaurant in Maryland debuted bumper tables to help maintain social distancing requirements when they reopen.… https://t.co/btz1uI21fV,Sun May 24 18:00:00 +0000 2020,0.4019,0.144,0.856,0.0
+166,CBS News,Boston Fed president predicts double-digit unemployment through end of year https://t.co/QWrTqEN3SP https://t.co/umGLhsB9f7,Sun May 24 17:43:43 +0000 2020,-0.4404,0.0,0.791,0.209
+167,CBS News,This curious German squirrel now has its own miniature beer garden thanks to a 10-year-old boy —  and it is simply… https://t.co/CayOCqKUxm,Sun May 24 17:30:00 +0000 2020,0.6369,0.206,0.794,0.0
+168,CBS News,"Meet Biscuits and Gravy, the kitten with two faces born in Oregon https://t.co/nJC42wepQM https://t.co/BALjCZbMwc https://t.co/BJu2lftQG3",Sun May 24 17:00:01 +0000 2020,0.0,0.0,1.0,0.0
+169,CBS News,"Ex-FDA chief Scott Gottlieb warns coronavirus ""isn't contained yet"" https://t.co/h6Vi5SEPqG https://t.co/v1c28vhc2M",Sun May 24 16:32:03 +0000 2020,-0.1027,0.0,0.877,0.123
+170,CBS News,"WATCH: Prince William and Kate hosted a virtual bingo game for a senior living home, and shared a laugh with the re… https://t.co/2jvddUEUXQ",Sun May 24 16:30:00 +0000 2020,0.7184,0.222,0.778,0.0
+171,CBS News,New York Gov. Cuomo says starting today New York professional sports leagues will be able to begin training camps… https://t.co/5oC3mqraiz,Sun May 24 16:12:02 +0000 2020,0.0,0.0,1.0,0.0
+172,CBS News,"While his wife is on bed rest in the hospital, this husband has been setting up ""date nights"" outside of her window… https://t.co/quktRp74Zu",Sun May 24 16:00:00 +0000 2020,0.0,0.0,1.0,0.0
+173,CBS News,"RT @FaceTheNation: As Trump is seen not wearing protective masks, @scottgottliebMD says ""elected leaders should be setting a strong example…",Sun May 24 15:56:56 +0000 2020,0.5106,0.148,0.852,0.0
+174,CBS News,RT @FaceTheNation: COVID MISSTEPS: Former @DHSGov Secretary Michael Chertoff tells @margbrennan an area of shortfall for the current admini…,Sun May 24 15:56:26 +0000 2020,0.0,0.0,1.0,0.0
+175,CBS News,"RT @CBSSunday: In case you missed the full edition of our #sundaymorning broadcast, on this May 24, 2020, you can catch it in its entirety…",Sun May 24 15:40:03 +0000 2020,-0.296,0.0,0.916,0.084
+176,CBS News,More than 170 students in Manila were able to “walk” across the stage during their virtual graduation ceremony — th… https://t.co/KbcZ79nbqV,Sun May 24 15:35:00 +0000 2020,0.0,0.0,1.0,0.0
+177,CBS News,Trump and Jeff Sessions trade barbs over Twitter https://t.co/twfm4h1Y5d https://t.co/i9UajGehiD,Sun May 24 15:25:22 +0000 2020,0.0,0.0,1.0,0.0
+178,CBS News,"Trump campaign flying ""Keep America Great"" aerial banners Memorial Day weekend  https://t.co/4UIYaxcftm https://t.co/ECVKuGhdjU",Sun May 24 14:41:23 +0000 2020,0.6249,0.255,0.745,0.0
+179,CBS News,"RT @FaceTheNation: If China develops a #COVID vaccine for the U.S., would it be available to the American public? 
+
+Robert O'Brien: ""I thin…",Sun May 24 14:32:44 +0000 2020,0.0,0.0,1.0,0.0
+180,The New York Times,"Across the United States, concert promoters, theater presenters, orchestras and dance companies are ripping up thei… https://t.co/ig7FkrJJGW",Sun May 24 19:02:05 +0000 2020,0.4215,0.149,0.851,0.0
+181,The New York Times,"Elizabeth Warren agreed to host an online gathering of donors for Joe Biden, the presumptive Democratic nominee, wh… https://t.co/wrT73prwlm",Sun May 24 18:20:03 +0000 2020,0.2732,0.104,0.896,0.0
+182,The New York Times,"Strap a rocket to the underside of a plane. Fly it up several miles. Drop it. The engine ignites, and the rocket an… https://t.co/AYaaV1RhHY",Sun May 24 17:58:28 +0000 2020,-0.2732,0.0,0.916,0.084
+183,The New York Times,11-year-old Gui Khury landed a 1080. Twice. One of the most exciting parts? Hearing from Tony Hawk.… https://t.co/PwQNypPL9I,Sun May 24 17:29:44 +0000 2020,0.5413,0.17,0.83,0.0
+184,The New York Times,The question of what went wrong at the Holyoke Soldiers’ Home will be with Massachusetts for a long time.… https://t.co/p6bc2tF7ZL,Sun May 24 17:29:29 +0000 2020,-0.4767,0.0,0.86,0.14
+185,The New York Times,"Multiple investigations have been opened, 2 of which seek to determine whether state officials should be charged wi… https://t.co/Rp6xry659i",Sun May 24 17:29:28 +0000 2020,-0.2023,0.0,0.909,0.091
+186,The New York Times,"Emilio DiPalma, another Holyoke Soldiers’ Home resident, was a 19-year-old Army staff sergeant when he guarded Herm… https://t.co/nFMTCTZF23",Sun May 24 17:29:27 +0000 2020,0.0,0.0,1.0,0.0
+187,The New York Times,"James Miller, who survived what was for Americans the bloodiest battle of World War II, died of complications from… https://t.co/QirK5q2nym",Sun May 24 17:29:27 +0000 2020,-0.7783,0.112,0.544,0.344
+188,The New York Times,"Of the 210 veterans who were living in the facility in late March, 89 are now dead, 74 having tested positive for t… https://t.co/ECoh0laTmq",Sun May 24 17:29:26 +0000 2020,-0.1779,0.12,0.736,0.144
+189,The New York Times,Inside the Holyoke Soldiers’ Home was a man who served as jailer to Hitler’s right-hand man. A man who rescued Japa… https://t.co/i1JjTVsSek,Sun May 24 17:29:25 +0000 2020,0.4215,0.118,0.882,0.0
+190,The New York Times,"RT @simonelandon: We put 1,000 names in the paper, 1 percent of those who have died. Online, we're emphasizing their stories. https://t.co/…",Sun May 24 17:15:11 +0000 2020,-0.5574,0.0,0.854,0.146
+191,The New York Times,"As President Trump pushes for places of worship to reopen, religious leaders across the U.S. are navigating the ten… https://t.co/1GNF4wIsKp",Sun May 24 17:00:03 +0000 2020,0.296,0.104,0.896,0.0
+192,The New York Times,"In Frankfurt, Germany, 40 new cases of the coronavirus were confirmed among churchgoers. France restarted church se… https://t.co/H9anaaPgNm",Sun May 24 16:29:07 +0000 2020,0.0,0.0,1.0,0.0
+193,The New York Times,RT @MichaelPaulson: Say farewell to the fall culture season: many of the nation’s biggest live performance producers and presenters are del…,Sun May 24 16:27:23 +0000 2020,0.0,0.0,1.0,0.0
+194,The New York Times,"For today, May 24, here’s how to follow the latest on the coronavirus outbreak. 
+
+🌎 Live updates from around the wo… https://t.co/rdKTgynUfF",Sun May 24 16:10:08 +0000 2020,0.0,0.0,1.0,0.0
+195,The New York Times,"Hurricane season begins in June, and it's expected to be an active one. Emergency planners in Florida are trying to… https://t.co/uC0xIYcNGo",Sun May 24 16:00:08 +0000 2020,0.0258,0.111,0.782,0.107
+196,The New York Times,"Compared to white or Hispanic patients, black patients seeking care in the United States have more advanced cases o… https://t.co/eBoX3WYmyj",Sun May 24 15:30:07 +0000 2020,0.807,0.328,0.672,0.0
+197,The New York Times,"A group of worst-case scenario planners — mostly Democrats, but also some anti-Trump Republicans — have been gaming… https://t.co/dA5gnaIfMM",Sun May 24 15:11:04 +0000 2020,0.0,0.0,1.0,0.0
+198,The New York Times,"Memories, gathered from obituaries across America, help us reckon with what was lost. https://t.co/rMPXCclIYv",Sun May 24 14:55:52 +0000 2020,0.1027,0.159,0.706,0.135
+199,The New York Times,"""One hundred thousand,"" writes @DanBarryNYT.
+
+""The immensity of such a sudden toll taxes our ability to comprehend,… https://t.co/GzhgBDaTJI",Sun May 24 14:55:30 +0000 2020,0.3182,0.119,0.881,0.0
+200,Fox News,https://t.co/qmdG6UTrVK,Fri May 22 19:12:15 +0000 2020,0.0,0.0,1.0,0.0
+201,Fox News,https://t.co/yxDGwP9pFl,Fri May 22 14:04:16 +0000 2020,0.0,0.0,1.0,0.0
+202,Fox News,https://t.co/Bbj1M4kaOp,Fri May 22 13:44:13 +0000 2020,0.0,0.0,1.0,0.0
+203,Fox News,https://t.co/OCX35cNGTf,Fri May 22 13:09:17 +0000 2020,0.0,0.0,1.0,0.0
+204,Fox News,https://t.co/OAUidEeZ5w,Fri May 22 09:52:57 +0000 2020,0.0,0.0,1.0,0.0
+205,Fox News,https://t.co/RsoszBO0da,Fri May 22 02:08:16 +0000 2020,0.0,0.0,1.0,0.0
+206,Fox News,https://t.co/vijZAsfcUu,Fri May 22 01:05:28 +0000 2020,0.0,0.0,1.0,0.0
+207,Fox News,https://t.co/zI1Q6h73zB,Thu May 21 23:19:37 +0000 2020,0.0,0.0,1.0,0.0
+208,Fox News,https://t.co/Xcb4CdLM2H,Thu May 21 22:18:16 +0000 2020,0.0,0.0,1.0,0.0
+209,Fox News,https://t.co/yBJsyLY8Gq,Thu May 21 20:18:23 +0000 2020,0.0,0.0,1.0,0.0
+210,Fox News,https://t.co/brwsxl3Se5,Thu May 21 18:52:18 +0000 2020,0.0,0.0,1.0,0.0
+211,Fox News,https://t.co/mQtvq6TctN,Thu May 21 16:41:55 +0000 2020,0.0,0.0,1.0,0.0
+212,Fox News,https://t.co/u5esviYr6S,Thu May 21 16:41:22 +0000 2020,0.0,0.0,1.0,0.0
+213,Fox News,https://t.co/KUEmkBTBJo,Thu May 21 15:06:02 +0000 2020,0.0,0.0,1.0,0.0
+214,Fox News,https://t.co/n8wtYZtmYC,Thu May 21 13:00:26 +0000 2020,0.0,0.0,1.0,0.0
+215,Fox News,https://t.co/L4PaMkVLBD,Thu May 21 10:50:48 +0000 2020,0.0,0.0,1.0,0.0
+216,Fox News,https://t.co/tBOQZERhJl,Thu May 21 02:02:36 +0000 2020,0.0,0.0,1.0,0.0
+217,Fox News,https://t.co/ziAjPLpxTN,Thu May 21 01:00:16 +0000 2020,0.0,0.0,1.0,0.0
+218,Fox News,https://t.co/ik5O7deVyw,Wed May 20 23:56:12 +0000 2020,0.0,0.0,1.0,0.0
+219,Fox News,https://t.co/FvmqWjbCyf,Wed May 20 22:39:01 +0000 2020,0.0,0.0,1.0,0.0
+220,CNN,"This priest thought he would have a little fun on Easter — and observe social distancing, of course — by using a pl… https://t.co/yvlzVBYk2K",Sun May 24 14:31:04 +0000 2020,0.4601,0.116,0.884,0.0
+221,CNN,".@FareedZakaria: “If the 2016 [Trump] campaign centered around blaming Mexico, the 2020 campaign will clearly focus… https://t.co/AOv8BwHwwz",Sun May 24 14:24:45 +0000 2020,-0.128,0.129,0.718,0.153
+222,CNN,"After Lincoln, the car manufacturer, donated 110,000 face masks, Matthew McConaughey and wife, Camila Alves, loaded… https://t.co/fvynxd9fiR",Sun May 24 14:16:04 +0000 2020,0.0,0.0,1.0,0.0
+223,CNN,"""Captain Tom"" Moore, the war veteran who raised almost $40 million (£33 million) for the UK's National Health Servi… https://t.co/DuJ3XsnEtA",Sun May 24 14:01:03 +0000 2020,-0.5994,0.0,0.83,0.17
+224,CNN,When do you think this pandemic began? Join @FareedZakaria to learn what he discovered. CNN Special Report – China’… https://t.co/lBashY9q4C,Sun May 24 14:00:25 +0000 2020,0.5994,0.214,0.786,0.0
+225,CNN,Two Missouri hairstylists potentially exposed 140 clients to coronavirus when they worked for up to eight days this… https://t.co/meURLcsZUO,Sun May 24 13:51:38 +0000 2020,-0.0772,0.0,0.933,0.067
+226,CNN,"The New York Times has dedicated Sunday's front page and three inside pages to the names of 1,000 people who have d… https://t.co/IJb53MAXti",Sun May 24 13:31:04 +0000 2020,0.4588,0.12,0.88,0.0
+227,CNN,"Former Vice President Joe Biden has won the Hawaii Democratic primary, the state Democratic Party announced Saturday https://t.co/ZXWPnPArB2",Sun May 24 13:26:00 +0000 2020,0.7506,0.286,0.714,0.0
+228,CNN,"RT @CNNSotu: The month of May could see an unemployment rate north of 20%, according to Kevin Hassett, senior economic adviser to President…",Sun May 24 13:23:20 +0000 2020,-0.4404,0.0,0.884,0.116
+229,CNN,"Scientists at NASA say we're currently in a ""Grand Solar Minimum."" The last occurrence was between 1650 and 1715, d… https://t.co/9Fy2XZ73WA",Sun May 24 13:01:07 +0000 2020,0.4588,0.13,0.87,0.0
+230,CNN,Victoria's Secret is permanently closing 250 stores in the US and Canada https://t.co/47j7wH8AdA,Sun May 24 12:31:05 +0000 2020,0.0,0.0,1.0,0.0
+231,CNN,"Growing evidence suggests that Covid-19 infection, like with other illnesses, is related to prolonged time exposed… https://t.co/XaAJhlCLRF",Sun May 24 12:01:02 +0000 2020,0.0,0.196,0.654,0.15
+232,CNN,Johnson &amp; Johnson is abandoning a product that it may be most identified with and has been selling for more than 10… https://t.co/TOgWkJoAYs,Sun May 24 11:31:08 +0000 2020,-0.3818,0.0,0.894,0.106
+233,CNN,"It is becoming increasingly evident that hurricanes, typhoons, and tropical cyclones worldwide are becoming stronge… https://t.co/UFlt4BrHC7",Sun May 24 11:01:10 +0000 2020,0.0,0.0,1.0,0.0
+234,CNN,"From choosing a window seat to turning on the overhead vent, @drsanjaygupta offers some travel tips for those who a… https://t.co/e1oHsmT98V",Sun May 24 10:47:47 +0000 2020,0.0,0.0,1.0,0.0
+235,CNN,Green snow created by blooming algae in the Antarctic Peninsula is likely to spread as temperatures increase as a r… https://t.co/WUzDn455wf,Sun May 24 10:31:01 +0000 2020,0.5106,0.185,0.815,0.0
+236,CNN,"""My dream is to meet every kid in the entire world and give them art."" This girl has sent over 1,500 children in ho… https://t.co/hktGPxiPKi",Sun May 24 10:16:03 +0000 2020,0.25,0.077,0.923,0.0
+237,CNN,.@FareedZakaria investigates China and Covid-19. Discover what he learned in the new CNN Special Report – China’s D… https://t.co/dVmDOpcNva,Sun May 24 10:00:09 +0000 2020,0.4019,0.13,0.87,0.0
+238,CNN,"This man thought his pet donkey would not remember him after he had been under quarantine, but the beloved animal g… https://t.co/xFRNf7vP5u",Sun May 24 09:31:06 +0000 2020,0.6652,0.175,0.825,0.0
+239,CNN,Have you ever walked through a cloud? Maybe driven through a cloud? Fog is actually a cloud — a cloud on the ground… https://t.co/2vd5HzQayZ,Sun May 24 09:17:45 +0000 2020,0.0,0.0,1.0,0.0
+240,BBC News (World),Rwanda genocide: How Félicien Kabuga evaded capture for 26 years https://t.co/BmMzxMfvsQ,Sun May 24 00:12:59 +0000 2020,0.0,0.0,1.0,0.0
+241,BBC News (World),Coronavirus: Which health claims are circulating online? https://t.co/J2MMJXyaKd,Sun May 24 00:06:17 +0000 2020,0.0,0.0,1.0,0.0
+242,BBC News (World),Stan's Donuts: A farewell to a shop closed by coronavirus https://t.co/aCY4sJLQdq,Sun May 24 00:04:02 +0000 2020,0.0,0.0,1.0,0.0
+243,BBC News (World),Taliban announce three-day Eid ceasefire with Afghan government https://t.co/0UnMSRoyPN,Sat May 23 21:33:03 +0000 2020,0.0,0.0,1.0,0.0
+244,BBC News (World),New York state daily coronavirus death toll drops below 100 https://t.co/eNDpJ43pwI,Sat May 23 21:11:51 +0000 2020,-0.5994,0.0,0.719,0.281
+245,BBC News (World),Over 40 coronavirus cases traced to church service in Germany after lockdown was eased https://t.co/15XNkarQHk,Sat May 23 20:40:03 +0000 2020,0.296,0.136,0.864,0.0
+246,BBC News (World),"- Keep a planner 
+- Limit distractions 
+- Make it your passion
+- Take breaks
+
+Here are some top tips on learning at… https://t.co/BRc3j78HyY",Sat May 23 18:55:05 +0000 2020,0.4215,0.173,0.755,0.072
+247,BBC News (World),"RT @BBC_CurrAff: Profile: Dr Tedros Adhanom Ghebreyesus, 
+
+Three years into the job, the first African to be elected Director-General of th…",Sat May 23 18:40:37 +0000 2020,0.0,0.0,1.0,0.0
+248,BBC News (World),"Most of the meteorites ever found have been discovered in Antarctica, so every year small teams venture out on to t… https://t.co/UW9rzTVK6H",Sat May 23 18:27:58 +0000 2020,0.0,0.0,1.0,0.0
+249,BBC News (World),"Iranian parkour athlete Alireza Japalaghy has risked his life to perform dangerous stunts
+
+But it is photos of him… https://t.co/PHa4SbTMlG",Sat May 23 17:58:48 +0000 2020,-0.3612,0.0,0.837,0.163
+250,BBC News (World),"Spanish anti-lockdown protest draws thousands 
+
+https://t.co/KwrdWzJq7I",Sat May 23 16:56:15 +0000 2020,-0.25,0.0,0.714,0.286
+251,BBC News (World),"Las Vegas is getting ready to roll as its casinos prepare to reopen next month
+
+But many questions remain over the… https://t.co/cNEEfWk7oY",Sat May 23 16:03:55 +0000 2020,0.1901,0.077,0.923,0.0
+252,BBC News (World),Battle of Berlin survivor Saturn the alligator dies in Moscow Zoo https://t.co/EeY3qp5UZM,Sat May 23 14:56:02 +0000 2020,-0.0258,0.166,0.662,0.172
+253,BBC News (World),"""Hug mum. Hug mum. Hug mum. And savour mum's pancakes... you won't get them for a while""
+
+What advice would you giv… https://t.co/8hK52C9F0X",Sat May 23 14:34:05 +0000 2020,0.8519,0.317,0.683,0.0
+254,BBC News (World),"La Liga can resume from 8 June, Spain's prime minister says https://t.co/sFDSBL5Hc0",Sat May 23 13:08:37 +0000 2020,0.0,0.0,1.0,0.0
+255,BBC News (World),"Meet Biscuits, the kitten with two faces
+
+The feline can eat with either mouth and sometimes meows with one mouth w… https://t.co/0Bycjz5b1c",Sat May 23 12:58:27 +0000 2020,0.0,0.0,1.0,0.0
+256,BBC News (World),"Car rental company Hertz files for bankruptcy protection in the US 
+https://t.co/YJsXw5DiLQ",Sat May 23 12:24:34 +0000 2020,0.0,0.0,1.0,0.0
+257,BBC News (World),The Amazon rainforest - which plays a vital role in balancing the world's climate and helping fight global warming… https://t.co/zHaUfw7dcD,Sat May 23 11:41:24 +0000 2020,0.5423,0.315,0.584,0.101
+258,BBC News (World),"France reveals reciprocal quarantine plans for UK arrivals 
+
+https://t.co/A7WAooAblM",Sat May 23 11:12:07 +0000 2020,0.0,0.0,1.0,0.0
+259,BBC News (World),"Netflix star and Japanese wrestler Hana Kimura dies, aged 22
+
+https://t.co/4kYqDXVt6N",Sat May 23 11:00:29 +0000 2020,0.0,0.0,1.0,0.0
+260,CBS News,"RT @FaceTheNation: As North Korea's Kim Jong Un makes a reappearance and call to potentially bolster the regime's nuclear capabilities, Rob…",Sun May 24 14:32:26 +0000 2020,0.0,0.0,1.0,0.0
+261,CBS News,"RT @CBSSunday: Do Nothing For Two Minutes
+
+Take a minute, turn up the volume as we take you to the St. Vincent National Wildlife Refuge in…",Sun May 24 14:32:17 +0000 2020,0.0,0.0,1.0,0.0
+262,CBS News,NSA chief Robert O'Brien says administration is looking at cutting off travel from Brazil amid coronavirus pandemic… https://t.co/hVrxM17pwm,Sun May 24 14:16:57 +0000 2020,-0.128,0.0,0.919,0.081
+263,CBS News,"RT @CBSSunday: Since parades are canceled this Memorial Day weekend, retired Air Force bugler Jari Villanueva &amp; correspondent @SteveHartman…",Sun May 24 14:12:21 +0000 2020,0.0,0.0,1.0,0.0
+264,CBS News,"RT @CBSSunday: Singer @joshgroban debuts his new song and video ""Your Face"" here on #SundayMorning https://t.co/8itBFX2q5Y https://t.co/lEf…",Sun May 24 14:12:13 +0000 2020,0.0,0.0,1.0,0.0
+265,CBS News,"Kim Jong Un appears in public for first time since May 1, state-run media reports https://t.co/cdr8N9dSXm https://t.co/YGngSUoXAO",Sun May 24 14:05:33 +0000 2020,0.0,0.0,1.0,0.0
+266,CBS News,"RT @FaceTheNation: NEWS: The Trump Administration is looking at cutting off travel from Brazil amid #coronavirus pandemic, National Securit…",Sun May 24 13:40:46 +0000 2020,-0.128,0.0,0.923,0.077
+267,CBS News,"RT @CBSSunday: #SundayMorning Rise and Shine ☀️ This morning's ""Abblasen"" is played by @theusarmyband ""Pershing's Own."" Make every day Sund…",Sun May 24 13:40:38 +0000 2020,0.34,0.112,0.888,0.0
+268,CBS News,Bots account for nearly half of Twitter accounts spreading coronavirus misinformation https://t.co/7WZaBSxcZm https://t.co/rp7isyLx8z,Sun May 24 12:59:51 +0000 2020,-0.3182,0.0,0.839,0.161
+269,CBS News,Teen's tracking app takes a different approach to the coronavirus challenge https://t.co/gHmahckQ57 https://t.co/0EVMBBJPFa,Sun May 24 12:39:42 +0000 2020,0.0772,0.098,0.902,0.0
+270,CBS News,Millions of kids around the world adjust to school in the coronavirus era https://t.co/WTv3m6WyDK https://t.co/ZKmd9njcuP,Sun May 24 12:19:42 +0000 2020,0.0,0.0,1.0,0.0
+271,CBS News,"More than 4 million Americans file for jobless aid, bringing pandemic total above 40 million https://t.co/qQna1xWSyG https://t.co/aIwkVQZvOo",Sun May 24 11:59:40 +0000 2020,0.0,0.0,1.0,0.0
+272,CBS News,Bison injures woman at Yellowstone 2 days after park reopens https://t.co/lMlT3vZNht https://t.co/qCgwCJ5ABm,Sun May 24 11:39:35 +0000 2020,0.0,0.0,1.0,0.0
+273,CBS News,"Florida beach with ""sugar-white sands"" named best in U.S. for 2020 https://t.co/A4FhrgRbkQ https://t.co/omI0h4X6Aw",Sun May 24 11:19:48 +0000 2020,0.6369,0.259,0.741,0.0
+274,CBS News,Tabatha Rosproy named 2020 National Teacher of the Year https://t.co/KHiXW3A8pE https://t.co/yAK535zFvD,Sun May 24 10:59:46 +0000 2020,0.0,0.0,1.0,0.0
+275,CBS News,A woman says she's had 8 positive coronavirus tests in 50 days. How long can it really take to recover?… https://t.co/MQ0in05eOY,Sun May 24 10:40:00 +0000 2020,0.5574,0.153,0.847,0.0
+276,CBS News,A devastating Dust Bowl heat wave is now more than twice as likely https://t.co/TbZv8WM7hX https://t.co/VRLZdcVMXF,Sun May 24 10:19:39 +0000 2020,-0.6486,0.0,0.765,0.235
+277,CBS News,"Few minority business owners got Paycheck Protection Program loans, survey shows https://t.co/iwyYtALYy8 https://t.co/40lUFir88u",Sun May 24 09:59:50 +0000 2020,0.0,0.0,1.0,0.0
+278,CBS News,"Captain Tom Moore, Britain's ""national treasure,"" to be knighted by the queen https://t.co/rIxELh72aC https://t.co/GznomWEQEy",Sun May 24 09:39:35 +0000 2020,0.296,0.145,0.855,0.0
+279,CBS News,Canceled travel plans during the pandemic and can't get a refund? Here's what to know https://t.co/IBmyPgADun https://t.co/tX0WLszs1g,Sun May 24 09:19:54 +0000 2020,0.0,0.0,1.0,0.0
+280,The New York Times,"100,000.
+
+As the U.S. approaches this grim milestone, we're remembering those who have died from the coronavirus.… https://t.co/uuUXVamMc6",Sun May 24 14:55:04 +0000 2020,-0.8391,0.0,0.667,0.333
+281,The New York Times,"RT @cliffordlevy: Why local journalism matters, now more than ever. 
+@nytimes was able to put together this deeply moving portrait of the l…",Sun May 24 14:32:33 +0000 2020,0.0258,0.048,0.952,0.0
+282,The New York Times,"After another weekslong absence from public view, North Korea’s leader, Kim Jong-un, convened his top military body… https://t.co/MQfr4Bacnq",Sun May 24 14:30:07 +0000 2020,0.2023,0.096,0.904,0.0
+283,The New York Times,"News Analysis: ""China’s move to strip away another layer of Hong Kong’s autonomy was not a rash impulse. It was a d… https://t.co/mQBeUyK1MM",Sun May 24 14:00:11 +0000 2020,0.3089,0.093,0.907,0.0
+284,The New York Times,"The Taliban and the Afghan government announced a cease-fire for the 3 days of the Islamic festival Eid al-Fitr, wh… https://t.co/lqrJNUmz2K",Sun May 24 13:40:04 +0000 2020,0.4939,0.138,0.862,0.0
+285,The New York Times,Weekend briefing: Here’s what you need to know about the week’s top stories https://t.co/wN2AImHZMp,Sun May 24 13:20:06 +0000 2020,0.2023,0.122,0.878,0.0
+286,The New York Times,Protesters in Hong Kong ignored social distancing restrictions as they took to the streets to oppose China's plan t… https://t.co/Kdqj9mv8ML,Sun May 24 12:45:03 +0000 2020,-0.4939,0.0,0.811,0.189
+287,The New York Times,"Prime Minister Benjamin Netanyahu's trial on felony corruption charges is expected to last a year or more, with the… https://t.co/SbQQZBL7Dd",Sun May 24 12:26:21 +0000 2020,-0.6808,0.0,0.763,0.237
+288,The New York Times,Experts are growing increasingly concerned about the potential long-term effects of this pandemic on children’s hea… https://t.co/L5H9Eq953b,Sun May 24 12:00:04 +0000 2020,0.1779,0.096,0.904,0.0
+289,The New York Times,"Crowded parks, beaches and hiking trails can bring out our anxieties. A bit of preparation will help. https://t.co/WBwW0cbbt0",Sun May 24 11:30:04 +0000 2020,0.2732,0.133,0.788,0.079
+290,The New York Times,"You can freeze the scones for up to a month before baking
+https://t.co/D3lYZ3XliG",Sun May 24 11:00:05 +0000 2020,0.0516,0.091,0.909,0.0
+291,The New York Times,"Done correctly, these restorative stretches, working on muscles from your eyes to your toes, really do make you fee… https://t.co/UAbHMFjBsn",Sun May 24 10:30:04 +0000 2020,0.0,0.0,1.0,0.0
+292,The New York Times,"Even amidst the pandemic, people are buying hot dogs like crazy. Since March, Feltman’s has seen a 100 percent incr… https://t.co/3DmChQflDT",Sun May 24 10:00:10 +0000 2020,0.0258,0.105,0.795,0.1
+293,The New York Times,"Amazon and other companies are planning to test workers for the coronavirus. But there is little federal guidance,… https://t.co/spkuNJUa5Q",Sun May 24 09:30:05 +0000 2020,0.09,0.07,0.93,0.0
+294,The New York Times,"Tyrannosaurus rex wasn’t a quick runner because of its heft, but its lanky limbs ensured it could amble efficiently… https://t.co/ygw0d4iHc2",Sun May 24 09:00:07 +0000 2020,0.0,0.0,1.0,0.0
+295,The New York Times,"On Thursday nights, Britons bang pots and pans and clap in support of doctors, nurses and other essential workers a… https://t.co/XQqNT8Fbnb",Sun May 24 08:30:04 +0000 2020,0.4019,0.119,0.881,0.0
+296,The New York Times,"With governments under intense spending pressure to cope with the coronavirus, European ambitions for a more indepe… https://t.co/KteVe2VAcI",Sun May 24 08:00:08 +0000 2020,-0.2263,0.067,0.821,0.113
+297,The New York Times,"As the gradual reopening of the U.S. feeds momentum for a return of sports, some athletes must consider their own u… https://t.co/67G2wwl1dt",Sun May 24 07:30:08 +0000 2020,0.0,0.0,1.0,0.0
+298,The New York Times,"Climate change makes extreme weather events more frequent and more intense. Now, because of the pandemic, they come… https://t.co/UvTYwabC9W",Sun May 24 07:00:12 +0000 2020,0.1513,0.081,0.919,0.0
+299,The New York Times,"In the wake of ""Old Town Road,"" there was curiously little action in country-rap. Enter Breland. https://t.co/bu5IKWf2XA",Sun May 24 06:22:20 +0000 2020,0.0,0.0,1.0,0.0
+300,Fox News,https://t.co/AbMmbfhzdK,Wed May 20 21:30:24 +0000 2020,0.0,0.0,1.0,0.0
+301,Fox News,https://t.co/8qy3W90xIS,Wed May 20 19:42:53 +0000 2020,0.0,0.0,1.0,0.0
+302,Fox News,https://t.co/0TrWIITDaJ,Wed May 20 18:41:34 +0000 2020,0.0,0.0,1.0,0.0
+303,Fox News,https://t.co/9fkYMPRDva,Wed May 20 16:42:22 +0000 2020,0.0,0.0,1.0,0.0
+304,Fox News,https://t.co/C5EMZYziqN,Wed May 20 15:31:43 +0000 2020,0.0,0.0,1.0,0.0
+305,Fox News,https://t.co/kXljA8sgCq,Wed May 20 12:48:40 +0000 2020,0.0,0.0,1.0,0.0
+306,Fox News,https://t.co/AqZefHtMKF,Wed May 20 11:35:03 +0000 2020,0.0,0.0,1.0,0.0
+307,Fox News,https://t.co/ewB9J7IdNy,Wed May 20 10:48:02 +0000 2020,0.0,0.0,1.0,0.0
+308,Fox News,https://t.co/MUO02vSLPI,Wed May 20 09:51:19 +0000 2020,0.0,0.0,1.0,0.0
+309,Fox News,https://t.co/fKruruHT7y,Wed May 20 09:25:06 +0000 2020,0.0,0.0,1.0,0.0
+310,Fox News,https://t.co/JXZIKxBkbr,Wed May 20 02:15:50 +0000 2020,0.0,0.0,1.0,0.0
+311,Fox News,https://t.co/oN0N1wtFnA,Wed May 20 01:12:08 +0000 2020,0.0,0.0,1.0,0.0
+312,Fox News,https://t.co/5VwOTcpq9Y,Tue May 19 23:45:45 +0000 2020,0.0,0.0,1.0,0.0
+313,Fox News,https://t.co/KhkPYNsWsN,Tue May 19 21:58:15 +0000 2020,0.0,0.0,1.0,0.0
+314,Fox News,https://t.co/rUcpbPjFPc,Tue May 19 20:55:45 +0000 2020,0.0,0.0,1.0,0.0
+315,Fox News,https://t.co/YO4P1Yqbym,Tue May 19 19:52:55 +0000 2020,0.0,0.0,1.0,0.0
+316,Fox News,https://t.co/2wM2JMMCt0,Tue May 19 18:47:58 +0000 2020,0.0,0.0,1.0,0.0
+317,Fox News,https://t.co/ow0isi4cIv,Tue May 19 16:46:22 +0000 2020,0.0,0.0,1.0,0.0
+318,Fox News,https://t.co/fNggMe1YaQ,Tue May 19 15:33:53 +0000 2020,0.0,0.0,1.0,0.0
+319,Fox News,https://t.co/hVMWMdlZRt,Tue May 19 15:03:51 +0000 2020,0.0,0.0,1.0,0.0
+320,CNN,"Dr. James ""Charlie"" Mahoney, a doctor who died while on the front line of the fight against coronavirus, had been a… https://t.co/vJNRMGTzcJ",Sun May 24 09:01:06 +0000 2020,-0.7351,0.0,0.763,0.237
+321,CNN,This family discovered two bags containing nearly $1 million in cash while on an afternoon drive… https://t.co/rkosBcdYKi,Sun May 24 08:47:45 +0000 2020,0.0,0.0,1.0,0.0
+322,CNN,"Scientists have created a mouse embryo that's part human — 4% to be exact.
+
+This human-mouse chimera has by far the… https://t.co/FEV7qQP3Q4",Sun May 24 08:31:07 +0000 2020,0.25,0.087,0.913,0.0
+323,CNN,"A giant wave has appeared on the LED façade of South Korea's biggest digital billboard, located in Seoul's Gangnam… https://t.co/netFM9NnNB",Sun May 24 08:17:31 +0000 2020,0.0,0.0,1.0,0.0
+324,CNN,"An 8-year-old therapy dog named Moose is officially a very good boy, after he was recently awarded an honorary doct… https://t.co/NkjC3tzEPd",Sun May 24 08:01:09 +0000 2020,0.807,0.315,0.685,0.0
+325,CNN,"An Oregon family got quite the surprise when one of their farm cats gave birth to a litter of six kittens, includin… https://t.co/pi6wQElDNO",Sun May 24 07:47:55 +0000 2020,0.3353,0.098,0.902,0.0
+326,CNN,This extreme parkour team likes to leap between skyscrapers and launch themselves off cliffs https://t.co/YBGyGxXgEv https://t.co/KApwAoAmxm,Sun May 24 07:46:00 +0000 2020,0.4703,0.17,0.83,0.0
+327,CNN,Astronomers believe they have observed the first direct evidence of planet birth in a young star system 520 light-y… https://t.co/P05pZvZ1we,Sun May 24 07:31:02 +0000 2020,0.0,0.0,1.0,0.0
+328,CNN,Police have fired tear gas after thousands of protesters took to the streets of Hong Kong to oppose the Chinese gov… https://t.co/XXdUbP0aUp,Sun May 24 07:29:05 +0000 2020,-0.6705,0.0,0.784,0.216
+329,CNN,Think you're a seasoned globetrotter? Put your knowledge to the test in this quiz https://t.co/BDXmCxIfkB https://t.co/SdQ8WuqDqZ,Sun May 24 07:16:00 +0000 2020,0.0,0.0,1.0,0.0
+330,CNN,"Coronavirus testing in the United States is disorganized and needs coordination at the national level, infectious d… https://t.co/GRZeVbfaob",Sun May 24 07:01:06 +0000 2020,0.1531,0.133,0.762,0.105
+331,CNN,New Zealand's Jacinda Ardern has floated the idea of a four-day working week to help the economy in the wake of the… https://t.co/C2DYADvdXs,Sun May 24 06:31:03 +0000 2020,0.4019,0.109,0.891,0.0
+332,CNN,"NBA legend Magic Johnson has announced that EquiTrust Life Insurance Co., of which the Hall of Famer owns a majorit… https://t.co/znj5Or6gCb",Sun May 24 06:01:07 +0000 2020,0.0,0.0,1.0,0.0
+333,CNN,The UK's Prince Charles has called on students and furloughed workers to pick fruit and vegetables to plug shortage… https://t.co/CrXPZczxFt,Sun May 24 05:46:05 +0000 2020,0.0,0.0,1.0,0.0
+334,CNN,Another heir of Walt Disney is publicly expressing disgust with the company his grandfather founded for furloughing… https://t.co/bUc65BpgZR,Sun May 24 05:31:06 +0000 2020,-0.5994,0.0,0.813,0.187
+335,CNN,"Nursing homes have no claim to their residents' stimulus checks, but that hasn't stopped some facilities from tryin… https://t.co/kmWUxT6C2w",Sun May 24 05:16:05 +0000 2020,0.1025,0.097,0.825,0.078
+336,CNN,"If the US began social distancing a week earlier than it did, it could've prevented at least 36,000 coronavirus dea… https://t.co/cOQ2JBjqWc",Sun May 24 05:01:05 +0000 2020,0.0258,0.052,0.948,0.0
+337,CNN,Are there legal consequences for not respecting social distancing? The answer to that question depends on intent.… https://t.co/3c5e7Nnczx,Sun May 24 04:46:05 +0000 2020,-0.2796,0.075,0.795,0.131
+338,CNN,"A Japanese woman known as ""Gamer Grandma"" to her 250,000 YouTube subscribers, started gaming almost 40 years ago.… https://t.co/hwLbLObNbo",Sun May 24 04:31:05 +0000 2020,0.0,0.0,1.0,0.0
+339,CNN,"For three days straight, this high school's 3 band directors traveled 168 miles from home to home to visit their 85… https://t.co/mtjf1GcUyy",Sun May 24 04:16:01 +0000 2020,0.2263,0.083,0.917,0.0
+340,BBC News (World),"What is the R number, and why is it so important right now?
+
+https://t.co/FWmppnBn7C",Sat May 23 10:18:40 +0000 2020,0.3952,0.234,0.766,0.0
+341,BBC News (World),"RT @BBCNews: How safe are takeaways, deliveries and how should you protect yourself while grocery shopping?
+
+https://t.co/WhSnRKvYqB",Sat May 23 09:50:28 +0000 2020,0.6705,0.268,0.732,0.0
+342,BBC News (World),"Is Latin America the next coronavirus epicentre?
+
+https://t.co/69z95sF5ue",Sat May 23 09:46:51 +0000 2020,0.0,0.0,1.0,0.0
+343,BBC News (World),"Democratic Presidential candidate Joe Biden apologises after saying black voters considering Trump ""ain't black""
+
+https://t.co/Uc252htUK4",Sat May 23 09:45:55 +0000 2020,0.2023,0.114,0.886,0.0
+344,BBC News (World),Ramadan: German church opens doors for Muslim prayers https://t.co/eSY1Njgofl,Sat May 23 04:13:29 +0000 2020,0.0,0.0,1.0,0.0
+345,BBC News (World),Pakistan plane crash: 'All I could see was fire' https://t.co/ISRZNYa1Pt,Sat May 23 02:14:01 +0000 2020,-0.6249,0.0,0.611,0.389
+346,BBC News (World),Coronavirus in Kenya: 'I buried my cousin on Facebook Live' https://t.co/QUOKLGs6S8,Sat May 23 01:15:34 +0000 2020,0.0,0.0,1.0,0.0
+347,BBC News (World),Coronavirus in the Maldives: The couple trapped on never-ending honeymoon https://t.co/dmkBf0IuT2,Sat May 23 01:11:06 +0000 2020,-0.5267,0.0,0.746,0.254
+348,BBC News (World),Brazil court releases foul-mouthed Bolsonaro video https://t.co/Nq4ZgEvxll,Sat May 23 00:12:26 +0000 2020,0.0,0.0,1.0,0.0
+349,BBC News (World),"President Trump says churches are ""essential services"" and he will ""override governors"" so they can reopen… https://t.co/4hQkiVwyGY",Fri May 22 23:08:06 +0000 2020,0.0,0.0,1.0,0.0
+350,BBC News (World),Canada v US: Loon stabs eagle through heart https://t.co/dN9spD3IQR,Fri May 22 22:26:30 +0000 2020,-0.4404,0.0,0.734,0.266
+351,BBC News (World),"Trump drug hydroxychloroquine raises death risk in Covid patients, study says https://t.co/6FAo3QSOyS",Fri May 22 21:30:21 +0000 2020,-0.7184,0.0,0.625,0.375
+352,BBC News (World),Biden: Black voters considering Trump 'ain't black' https://t.co/nE5ZsIWT3A,Fri May 22 20:02:08 +0000 2020,0.0,0.0,1.0,0.0
+353,BBC News (World),Coronavirus: Is it safe to visit US national parks? https://t.co/nigJGahU8k,Fri May 22 19:09:58 +0000 2020,0.4404,0.244,0.756,0.0
+354,BBC News (World),"RT @bbcworldservice: The town that recycles 20 tons of vegetables a day to save money and fight climate change 🇨🇱 ♻️
+(This video was filmed…",Fri May 22 18:53:29 +0000 2020,0.1531,0.107,0.805,0.087
+355,BBC News (World),"Read more about the R number here:
+
+https://t.co/FWmppnBn7C",Fri May 22 18:47:25 +0000 2020,0.0772,0.157,0.843,0.0
+356,BBC News (World),"Extensive testing and tracing could play an important role in this for some countries
+
+A vaccine could also suppres… https://t.co/mF8wU0LWyb",Fri May 22 18:47:25 +0000 2020,0.4939,0.189,0.811,0.0
+357,BBC News (World),"Lockdown restrictions have been used worldwide to keep R below 1
+
+As they are eased, governments will be looking to… https://t.co/JCNFFsTRwS",Fri May 22 18:47:24 +0000 2020,0.296,0.099,0.901,0.0
+358,BBC News (World),"If the reproduction number is higher than 1, then the number of cases increases exponentially
+
+If below 1, the dise… https://t.co/kteM28LIHB",Fri May 22 18:47:24 +0000 2020,0.1531,0.12,0.88,0.0
+359,BBC News (World),"The R, or reproduction number, is a way of rating the disease's ability to spread
+
+It's the number of people that o… https://t.co/qZFbisb0t2",Fri May 22 18:47:23 +0000 2020,0.4404,0.197,0.803,0.0
+360,CBS News,Dead Sea Scroll fragments believed to be blank for decades reveal text nearly invisible to the naked eye… https://t.co/ZjfO0puS95,Sun May 24 09:00:00 +0000 2020,-0.6486,0.0,0.807,0.193
+361,CBS News,New York City will test ultraviolet light to kill coronavirus on subways and buses https://t.co/c1ydPbg34h https://t.co/KmaMbLorHs,Sun May 24 08:39:39 +0000 2020,-0.6908,0.0,0.761,0.239
+362,CBS News,"After 17 years underground, cicadas will return to swarm parts of the U.S. this year https://t.co/qUCCbqY1qE https://t.co/Oz739TjaLr",Sun May 24 08:19:41 +0000 2020,0.0,0.0,1.0,0.0
+363,CBS News,How some colleges plan to reopen this fall amid the coronavirus pandemic https://t.co/bry6cDIghG https://t.co/p5OcEgGLQt,Sun May 24 07:59:50 +0000 2020,0.0,0.0,1.0,0.0
+364,CBS News,More than 600 New Yorkers sent Governor Cuomo videos about the importance of wearings face masks – and they're awes… https://t.co/iu7686VO0X,Sun May 24 07:39:35 +0000 2020,0.3612,0.111,0.889,0.0
+365,CBS News,U.S. births fall to a 35-year low https://t.co/8GFPAqFGqb https://t.co/lJ429HwTiw,Sun May 24 07:19:50 +0000 2020,-0.2732,0.0,0.792,0.208
+366,CBS News,Matt Lauer writes op-ed responding to allegations in Ronan Farrow's book https://t.co/T2oRqM6O5H https://t.co/vPxkoGyptf,Sun May 24 07:00:00 +0000 2020,0.0,0.0,1.0,0.0
+367,CBS News,"Doctor dies of COVID-19 after delaying retirement to treat coronavirus patients: ""He worked on the front lines to t… https://t.co/rNL5ishBdP",Sun May 24 06:39:45 +0000 2020,0.4019,0.124,0.876,0.0
+368,CBS News,"U.S. extends stringent border restrictions indefinitely, citing ongoing coronavirus threat https://t.co/lytHHcmmp1 https://t.co/2t0JcMeX1Z",Sun May 24 06:19:44 +0000 2020,-0.4404,0.101,0.671,0.228
+369,CBS News,"Johnson &amp; Johnson to discontinue sales of talc-based baby powder in U.S., Canada https://t.co/toYtvVLyCi https://t.co/Lq42CcstGA",Sun May 24 05:59:55 +0000 2020,0.0,0.0,1.0,0.0
+370,CBS News,Desperate Syrian refugees are resorting to selling their organs on the black market just to pay rent… https://t.co/XlvKQGARpx,Sun May 24 05:40:01 +0000 2020,-0.4019,0.0,0.812,0.188
+371,CBS News,Parents finally reunited with son after he was abducted in China 32 years ago https://t.co/FBTvqaCZfg https://t.co/0yJMJQ3YAR,Sun May 24 05:19:34 +0000 2020,-0.5106,0.0,0.82,0.18
+372,CBS News,"Jane Roe of ""Roe v. Wade"" said she was paid by anti-abortion rights groups to support their movement… https://t.co/gA4YXaeDK9",Sun May 24 04:59:42 +0000 2020,0.4019,0.13,0.87,0.0
+373,CBS News,How to safely run outside amid the coronavirus pandemic https://t.co/z2SYKe3PTh https://t.co/JaMnLAQnhm,Sun May 24 04:39:35 +0000 2020,0.4939,0.242,0.758,0.0
+374,CBS News,Anonymous donors paid off $8 million in student loans for first-generation grads https://t.co/HVP2skIRqB https://t.co/LcExpfi5Hu,Sun May 24 04:19:53 +0000 2020,0.0,0.0,1.0,0.0
+375,CBS News,"This Florida man thought coronavirus was a ""fake crisis"" until he was hospitalized with it. Now, he's warning other… https://t.co/AgN6Mv2Irv",Sun May 24 03:59:49 +0000 2020,-0.8625,0.0,0.639,0.361
+376,CBS News,"Large study finds drug touted by Trump is ""not useful and may be harmful"" for COVID-19 patients… https://t.co/I3LShoRDMR",Sun May 24 03:39:43 +0000 2020,-0.383,0.0,0.816,0.184
+377,CBS News,United Airlines offering passengers face masks and hand sanitizer wipes https://t.co/Gb7PmaGmGF https://t.co/92TQ1TUyYl,Sun May 24 03:19:40 +0000 2020,0.7184,0.375,0.625,0.0
+378,CBS News,Biden campaign says he'll revoke Keystone XL pipeline permit if elected https://t.co/sDV4y50JG9 https://t.co/jDBdE1rXIq,Sun May 24 02:59:44 +0000 2020,0.0,0.0,1.0,0.0
+379,CBS News,"Courteney Cox surprises 13-year-old boy who threw a ""Friends""-themed bar mitzvah https://t.co/p1Wqj1HRCH https://t.co/yRfEW96INg",Sun May 24 02:39:41 +0000 2020,0.2263,0.137,0.863,0.0
+380,The New York Times,"Hong Kong's fate is once again being decided in faraway halls of power, as Beijing moves forward with plans to stri… https://t.co/TJ9N4KSDKE",Sun May 24 06:00:03 +0000 2020,0.0,0.0,1.0,0.0
+381,The New York Times,Correction: Earlier editions of Sunday's front page included at least one name in error. Our original tweet contain… https://t.co/IfWZclU6eU,Sun May 24 05:30:26 +0000 2020,-0.1027,0.105,0.773,0.123
+382,The New York Times,"The front page of The New York Times for May 24, 2020 https://t.co/d14JhFp4CP",Sun May 24 05:27:40 +0000 2020,0.0,0.0,1.0,0.0
+383,The New York Times,“We don’t know what our world is going to look like in 6 months — our lives are going to look so different.” For so… https://t.co/eB33DltrEG,Sun May 24 05:20:47 +0000 2020,0.3612,0.091,0.909,0.0
+384,The New York Times,"Bethenny Frankel, the reality television star, went looking for medical gear for New York. She entered a world wher… https://t.co/1ZPn3hiJtC",Sun May 24 04:23:08 +0000 2020,0.0,0.0,1.0,0.0
+385,The New York Times,"In Opinion
+
+""Humanity is showing through — everywhere except, ironically, with the unmasked Trump,"" writes Maureen… https://t.co/UvIDto04Ny",Sun May 24 04:00:05 +0000 2020,0.0,0.0,1.0,0.0
+386,The New York Times,"The coronavirus didn’t stop these couples from celebrating their love with fun, creative and romantic proposals
+https://t.co/VX4zk98SlE",Sun May 24 03:30:03 +0000 2020,0.9393,0.56,0.367,0.073
+387,The New York Times,"""I’ve been like, There’s something wrong with this whole scenario. Why am I not staying home?""
+
+Cruising down Broad… https://t.co/pZErHW1HoK",Sun May 24 03:00:11 +0000 2020,-0.1531,0.106,0.763,0.131
+388,The New York Times,"“Even if you must discuss serious topics, the whole interaction isn’t required to be serious, dreadful or dark. You… https://t.co/TFNhqlb741",Sun May 24 02:27:05 +0000 2020,-0.5423,0.0,0.756,0.244
+389,The New York Times,"Leading New Zealand from isolation, Jacinda Ardern coaxed her “team of 5 million” into accepting extreme restrictio… https://t.co/g9uO3wEu9f",Sun May 24 02:00:11 +0000 2020,-0.0258,0.122,0.751,0.127
+390,The New York Times,The coronavirus quieted city noise. Listen to what’s left. https://t.co/fL3LHMutPW,Sun May 24 01:30:04 +0000 2020,0.0,0.0,1.0,0.0
+391,The New York Times,“People are dying in hospitals and dying at home. The official tolls are almost certainly an undercount. The morgue… https://t.co/3QujxxOR21,Sun May 24 01:00:11 +0000 2020,0.2748,0.1,0.9,0.0
+392,The New York Times,"These are not, on the surface, joyful times. Which is why you deserve relief. 
+
+We asked 14 writers what’s bringing… https://t.co/ZikI79VVBo",Sun May 24 00:25:07 +0000 2020,0.7906,0.269,0.731,0.0
+393,The New York Times,"Facing a summer with no baseball and no picnics, the makers of the original Coney Island red hot feared the worst.… https://t.co/nml0P07gsK",Sun May 24 00:00:12 +0000 2020,-0.6486,0.082,0.645,0.272
+394,The New York Times,“It doesn’t even feel like I live in New York anymore.” Empty streets and days without speaking to anyone are the n… https://t.co/xpycM56vWG,Sat May 23 23:50:03 +0000 2020,0.1779,0.099,0.83,0.071
+395,The New York Times,"Carly Rae Jepsen, Phoebe Bridgers, Polo G, Neil Young and more: Here’s your weekend playlist
+https://t.co/x3PIgwewwC",Sat May 23 23:30:05 +0000 2020,0.0,0.0,1.0,0.0
+396,The New York Times,"A colorful platter of soft, grilled vegetables in a sweet and spicy sauce can be the centerpiece of a light summery… https://t.co/meUArcVVlG",Sat May 23 23:00:07 +0000 2020,0.4588,0.125,0.875,0.0
+397,The New York Times,"3 shots were fired in the killing of Ahmaud Arbery. The authorities said Travis McMichael, who with his father and… https://t.co/bWA52irhg8",Sat May 23 22:50:05 +0000 2020,-0.8402,0.0,0.704,0.296
+398,The New York Times,A lawsuit involving online erotica raises a new question: can tropes from a fan-generated genre like the Omegaverse… https://t.co/XFdY6mal6X,Sat May 23 22:30:09 +0000 2020,0.1531,0.117,0.794,0.089
+399,The New York Times,"Visitors waited in line in 80-degree heat, standing on large blue stickers placed 6 feet apart, to enter the Museum… https://t.co/BjPN5b7tP1",Sat May 23 22:20:03 +0000 2020,0.0,0.0,1.0,0.0
+400,Fox News,https://t.co/tFjO6p50G0,Tue May 19 14:03:14 +0000 2020,0.0,0.0,1.0,0.0
+401,Fox News,https://t.co/bHgUjCn7Ei,Tue May 19 12:24:44 +0000 2020,0.0,0.0,1.0,0.0
+402,Fox News,https://t.co/We4btt5mzA,Tue May 19 11:19:04 +0000 2020,0.0,0.0,1.0,0.0
+403,Fox News,https://t.co/v2em0Wp8qd,Tue May 19 01:45:27 +0000 2020,0.0,0.0,1.0,0.0
+404,Fox News,https://t.co/7FViL1Fcyk,Tue May 19 00:35:23 +0000 2020,0.0,0.0,1.0,0.0
+405,Fox News,https://t.co/JJfvbVQqEQ,Mon May 18 23:23:28 +0000 2020,0.0,0.0,1.0,0.0
+406,Fox News,https://t.co/MDyjjdzGM0,Mon May 18 22:19:29 +0000 2020,0.0,0.0,1.0,0.0
+407,Fox News,https://t.co/lRj7qDp1N9,Mon May 18 21:00:27 +0000 2020,0.0,0.0,1.0,0.0
+408,Fox News,https://t.co/PHOtX7j8O7,Mon May 18 19:41:53 +0000 2020,0.0,0.0,1.0,0.0
+409,Fox News,https://t.co/V6HlW6Vb34,Mon May 18 18:34:35 +0000 2020,0.0,0.0,1.0,0.0
+410,Fox News,https://t.co/162Wa3Lu0p,Mon May 18 13:49:03 +0000 2020,0.0,0.0,1.0,0.0
+411,Fox News,https://t.co/IQIl2hdfy6,Mon May 18 11:20:11 +0000 2020,0.0,0.0,1.0,0.0
+412,Fox News,https://t.co/0mZnjnj42M,Mon May 18 01:36:44 +0000 2020,0.0,0.0,1.0,0.0
+413,Fox News,https://t.co/WG5zFOrX8V,Mon May 18 00:35:22 +0000 2020,0.0,0.0,1.0,0.0
+414,Fox News,https://t.co/WJUaxHnCqE,Sun May 17 23:28:09 +0000 2020,0.0,0.0,1.0,0.0
+415,Fox News,https://t.co/hkTXkJEkhp,Sun May 17 22:08:52 +0000 2020,0.0,0.0,1.0,0.0
+416,Fox News,https://t.co/pbi4v3gyqd,Sun May 17 21:04:39 +0000 2020,0.0,0.0,1.0,0.0
+417,Fox News,https://t.co/tIvz6yl2dX,Sun May 17 19:57:07 +0000 2020,0.0,0.0,1.0,0.0
+418,Fox News,https://t.co/KFSNx2eghq,Sun May 17 18:49:04 +0000 2020,0.0,0.0,1.0,0.0
+419,Fox News,https://t.co/1l8RDv4zut,Sun May 17 17:38:28 +0000 2020,0.0,0.0,1.0,0.0
+420,CNN,"Daily carbon emissions declined 17% between January and early April, compared to average levels in 2019, and could… https://t.co/hfVswkTX55",Sun May 24 04:01:03 +0000 2020,0.0,0.0,1.0,0.0
+421,CNN,"""Captain Tom"" Moore, the war veteran who raised almost $40 million (£33 million) for the UK's National Health Servi… https://t.co/0pNfFCVHAn",Sun May 24 03:44:02 +0000 2020,-0.5994,0.0,0.83,0.17
+422,CNN,"Sitting in marked socially distanced circles in parks, hugging through plastic, masks everywhere - this is our new… https://t.co/svYSxhBjI8",Sun May 24 03:30:03 +0000 2020,0.4215,0.135,0.865,0.0
+423,CNN,"A 1-year-old chef is cooking up a storm on social media, with more than a million followers on Instagram tuning in… https://t.co/Twm29MRVSM",Sun May 24 03:15:04 +0000 2020,0.0,0.0,1.0,0.0
+424,CNN,The drop in air travel due to the Covid-19 pandemic has meant that Alaska's Anchorage International Airport has ove… https://t.co/lWytQVRELN,Sun May 24 03:00:13 +0000 2020,-0.2732,0.0,0.9,0.1
+425,CNN,"Georgia is definitely in play in the 2020 presidential election, even if it isn't as strong a pickup opportunity fo… https://t.co/x9daNzGiDo",Sun May 24 02:45:09 +0000 2020,0.6367,0.286,0.616,0.098
+426,CNN,Thrift stores around the country are getting a deluge of donations from people who've had months to think about the… https://t.co/KUzBP2roIf,Sun May 24 02:30:09 +0000 2020,0.0,0.0,1.0,0.0
+427,CNN,"Astronomers have spotted a massive disk galaxy, not unlike our own, that formed 12.5 billion years ago when our 13.… https://t.co/33T5McLdKI",Sun May 24 02:15:03 +0000 2020,0.0,0.0,1.0,0.0
+428,CNN,NASA is seeking US citizens for an eight-month study on social isolation in preparation for missions to Mars and th… https://t.co/hUC1cGMxSu,Sun May 24 02:00:13 +0000 2020,-0.4019,0.0,0.881,0.119
+429,CNN,Moderna's chief financial officer and chief medical officer executed options and sold nearly $30 million of shares… https://t.co/UM0pZ8R7Q3,Sun May 24 01:45:07 +0000 2020,0.0,0.0,1.0,0.0
+430,CNN,Rescue crews have retrieved the data recorder from the Pakistan International Airlines plane that crashed on Friday… https://t.co/jSecFuRmID,Sun May 24 01:30:06 +0000 2020,0.5106,0.163,0.837,0.0
+431,CNN,"Matthew McConaughey and wife, Camila Alves, are hitting the road for a good cause. They are delivering much-needed… https://t.co/8i1UIjctTO",Sun May 24 01:21:06 +0000 2020,0.4404,0.139,0.861,0.0
+432,CNN,Spandau Ballet front man and 1980s icon Tony Hadley has stepped in to solve a bizarre controversy erupting in Singa… https://t.co/vPeP8HpjDI,Sun May 24 01:15:08 +0000 2020,-0.128,0.078,0.823,0.1
+433,CNN,"As Europe's beaches fill up with sunseekers, alarmed authorities face the challenge of keeping coronavirus in check… https://t.co/f2X5LrxGva",Sun May 24 01:00:12 +0000 2020,-0.2732,0.066,0.812,0.122
+434,CNN,The nation's rental car companies are in deep trouble. And that's another blow for the already struggling auto indu… https://t.co/Xn7k4t6hA5,Sun May 24 00:45:05 +0000 2020,-0.6705,0.0,0.766,0.234
+435,CNN,"""Look, I know your anger, but recusal was required by law. I did my duty &amp; you're damn fortunate I did. It protecte… https://t.co/W1ah6yr711",Sun May 24 00:30:05 +0000 2020,-0.2617,0.125,0.683,0.192
+436,CNN,"Now that Ramadan has ended, Eid al-Fitr, one of the most festive holidays in Islam, will be a somber affair, just l… https://t.co/sXqIRAgXyP",Sun May 24 00:21:01 +0000 2020,0.5222,0.213,0.69,0.097
+437,CNN,A 20-year-old man is facing assault and battery charges after a video surfaced of him attacking a 75-year-old man a… https://t.co/5uAoqOidoh,Sun May 24 00:15:03 +0000 2020,-0.836,0.0,0.669,0.331
+438,CNN,A school surprised a little girl by including a photo of her service dog in the yearbook https://t.co/QUjNjAgEwH,Sun May 24 00:00:14 +0000 2020,0.2263,0.101,0.899,0.0
+439,CNN,Johnson &amp; Johnson is abandoning a product that it may be most identified with and has been selling for more than 10… https://t.co/kdRV7MoVwf,Sat May 23 23:45:05 +0000 2020,-0.3818,0.0,0.894,0.106
+440,BBC News (World),"There is a simple, but crucial number at the heart of understanding the threat posed by the coronavirus
+
+The R valu… https://t.co/BL21pqFbvi",Fri May 22 18:47:23 +0000 2020,-0.631,0.056,0.768,0.177
+441,BBC News (World),"New York sent 4,300 recovering coronavirus patients to vulnerable nursing homes, investigation finds… https://t.co/7kqmOXwD6c",Fri May 22 18:44:58 +0000 2020,-0.2263,0.0,0.872,0.128
+442,BBC News (World),US Secretary of State Mike Pompeo condemns China's plan to impose a new security law in Hong Kong as 'death knell'… https://t.co/lKJtovk27F,Fri May 22 18:33:34 +0000 2020,-0.7906,0.081,0.604,0.315
+443,BBC News (World),"US President Donald Trump calls on places of worship to ""open right now"" and says he deems them ""essential""… https://t.co/mfluNYK2Ni",Fri May 22 18:27:54 +0000 2020,0.296,0.104,0.896,0.0
+444,BBC News (World),"Yemen's healthcare system has ""in effect collapsed"" and coronavirus has spread across the country, UN warns… https://t.co/Z5kWNFt9yH",Fri May 22 18:02:07 +0000 2020,-0.2732,0.0,0.884,0.116
+445,BBC News (World),RT @reetacbbc: President Trump says he is classifying houses of worship as essential - and tells state Governors to let them open this week…,Fri May 22 17:56:06 +0000 2020,0.296,0.087,0.913,0.0
+446,BBC News (World),RT @BBCBreaking: From 8 June people arriving in UK will have to self-isolate for 14 days but certain workers will be exempt https://t.co/hU…,Fri May 22 16:06:07 +0000 2020,0.5023,0.168,0.832,0.0
+447,BBC News (World),"US naval base shooting was 'terrorism related', FBI says https://t.co/kZorR6RiNu",Fri May 22 15:47:35 +0000 2020,-0.6808,0.0,0.662,0.338
+448,BBC News (World),"A passenger plane has crashed in a residential area in the southern city of Karachi in Pakistan
+
+The accident comes… https://t.co/6YCSbKv0Lk",Fri May 22 15:38:06 +0000 2020,-0.4767,0.0,0.866,0.134
+449,BBC News (World),Dogs auctioned to pay owners' debts in Ukraine https://t.co/XYDQVSe9he,Fri May 22 15:20:14 +0000 2020,-0.1027,0.0,0.851,0.149
+450,BBC News (World),"Tanzania president says the number of coronavirus patients in hospitals is declining, although the government has n… https://t.co/LAHw4ZTxmE",Fri May 22 15:15:58 +0000 2020,0.0772,0.071,0.929,0.0
+451,BBC News (World),"Officials in São Paulo, Brazil, want to bring forward some public holidays, including creating a five-day weekend t… https://t.co/jWYlGAiKS1",Fri May 22 14:35:05 +0000 2020,0.6249,0.276,0.724,0.0
+452,BBC News (World),RT @BBCMonitoring: We’ve taken a look at how jihadist comms on # Covid19 have changed over time and between groups. Here are some findings…,Fri May 22 14:16:13 +0000 2020,0.0,0.0,1.0,0.0
+453,BBC News (World),"War-torn Yemen's healthcare system has ""in effect collapsed"" and coronavirus is spreading through the country, the… https://t.co/t70jtmbPg1",Fri May 22 13:52:22 +0000 2020,-0.2732,0.0,0.884,0.116
+454,BBC News (World),"RT @BBCBreaking: Singer Mory Kante, who helped bring African music to world audiences with hits like Yeke Yeke, has died in Guinea https://…",Fri May 22 13:31:15 +0000 2020,-0.2732,0.092,0.775,0.133
+455,BBC News (World),"RT @bbcworldservice: Dressing up for Eid needn’t be stopped by lockdown – here are @theswolearab, Fatima and Hira with their style tips htt…",Fri May 22 13:18:13 +0000 2020,-0.2263,0.0,0.921,0.079
+456,BBC News (World),"""I feel like because we don't take ourselves too seriously, and we do choreography in our music videos, sometimes t… https://t.co/PpuzVLizpl",Fri May 22 13:06:56 +0000 2020,0.2023,0.108,0.819,0.073
+457,BBC News (World),"China submits draft resolution on new national security law for Hong Kong
+
+Many fear this could spell the end of th… https://t.co/qbSnQWuMhE",Fri May 22 12:50:40 +0000 2020,-0.2023,0.094,0.781,0.125
+458,BBC News (World),"Trailer for Christopher Nolan’s mysterious new film Tenet released, but doesn’t confirm the film’s scheduled releas… https://t.co/wS9VOdQzQK",Fri May 22 12:34:02 +0000 2020,0.0,0.0,1.0,0.0
+459,BBC News (World),"RT @BBCBusiness: Ray tracing has always been the ""holy grail"" of computer graphics, says the head of program management for the gaming cons…",Fri May 22 12:30:37 +0000 2020,0.0,0.0,1.0,0.0
+460,CBS News,"Formerly homeless teen graduates college on the Dean's List: ""I know that this is a gift"" https://t.co/dzfpUyS8bn https://t.co/QaA92HNfmW",Sun May 24 02:19:37 +0000 2020,0.4404,0.146,0.854,0.0
+461,CBS News,Stunning image of a cosmic spiral reveals what could be first glimpse at the birth of a planet… https://t.co/pddu01vPuO,Sun May 24 01:59:43 +0000 2020,0.3818,0.126,0.874,0.0
+462,CBS News,"Teen raises over $30,000 for frontline workers through his radio station https://t.co/gx7mfzqyj8 https://t.co/rs3rbQO49S",Sun May 24 01:40:01 +0000 2020,0.0,0.0,1.0,0.0
+463,CBS News,Retail worker creates Facebook support group for essential employees after she was allegedly attacked by a customer… https://t.co/SzJx2w7rzh,Sun May 24 01:19:42 +0000 2020,0.2023,0.211,0.658,0.132
+464,CBS News,NOAA hurricane forecast warns of a very active season ahead https://t.co/h3A3xmZji6 https://t.co/IpYinzfjIl,Sun May 24 01:00:00 +0000 2020,0.3804,0.208,0.695,0.097
+465,CBS News,"U.S. plans to sell $180 million in torpedoes to Taiwan, riling China https://t.co/EymPrEmnQg https://t.co/p4HyrQbbZw",Sun May 24 00:39:34 +0000 2020,0.0,0.0,1.0,0.0
+466,CBS News,Teen's emotional drive-thru graduation celebration goes viral https://t.co/xEhJPQ1kek https://t.co/Z84sTuoGoa,Sun May 24 00:19:48 +0000 2020,0.1531,0.167,0.833,0.0
+467,CBS News,Biden asks Amy Klobuchar to undergo vetting as possible running mate https://t.co/h5gpEiAqT9 https://t.co/3eOGUZjeRd,Sun May 24 00:00:00 +0000 2020,0.0,0.0,1.0,0.0
+468,CBS News,Climate change is causing Antarctica's snow to turn green https://t.co/VEMBxzMZ43 https://t.co/gJCMQIpIje,Sat May 23 23:40:01 +0000 2020,0.0,0.0,1.0,0.0
+469,CBS News,Students won't have to take the SAT or ACT to get into the University of California for the next four years… https://t.co/7YMyNVQc1o,Sat May 23 23:19:41 +0000 2020,0.0,0.0,1.0,0.0
+470,CBS News,Biden wins Hawaii primary but still short of enough delegates to clinch nomination https://t.co/DDoRj8xtOZ https://t.co/BOJG6jzrVF,Sat May 23 23:14:36 +0000 2020,0.3291,0.144,0.856,0.0
+471,CBS News,CDC says COVID-19 not caught easily from surfaces and 40% of transmission occurs before people feel sick… https://t.co/nctMbYj7Fa,Sat May 23 22:59:45 +0000 2020,-0.2584,0.0,0.893,0.107
+472,CBS News,18-year-old given months to live marries his high school sweetheart https://t.co/4Ko9vFIr2F https://t.co/0Mnd4Yo8ee,Sat May 23 22:40:01 +0000 2020,0.6486,0.281,0.719,0.0
+473,CBS News,Dying coral reefs turn vibrant neon colors in apparent last-ditch effort to survive https://t.co/TXnlQ40Q4c https://t.co/QbGSKZafs8,Sat May 23 22:20:00 +0000 2020,0.5267,0.195,0.805,0.0
+474,CBS News,"Husband sets up ""date nights"" outside wife's hospital room window as she awaits the birth of their son… https://t.co/BzEWoOQRHf",Sat May 23 21:59:42 +0000 2020,0.0772,0.067,0.933,0.0
+475,CBS News,Air Force removes height restrictions for pilots https://t.co/cjPvQsZACp https://t.co/DAsw9rFvRZ,Sat May 23 21:39:47 +0000 2020,0.0,0.0,1.0,0.0
+476,CBS News,Crew Dragon astronauts don pressure suits in preparation for historic test flight to the International Space Statio… https://t.co/F6EDpms9rm,Sat May 23 21:19:39 +0000 2020,-0.296,0.0,0.885,0.115
+477,CBS News,"Retail job losses are facing ""astronomical"" layoffs https://t.co/FUFn4CMqDs https://t.co/P6ORMaDned",Sat May 23 21:00:01 +0000 2020,-0.4019,0.0,0.748,0.252
+478,CBS News,"Residents, businesses sue Michigan dam operator over ruinous flooding https://t.co/wes969RaG0 https://t.co/fz7kmfX85y",Sat May 23 20:39:49 +0000 2020,-0.5719,0.0,0.73,0.27
+479,CBS News,Museums struggling to survive coronavirus pandemic get go-ahead to sell their art https://t.co/xP5tjD5vi5 https://t.co/1vdNCYg490,Sat May 23 20:19:35 +0000 2020,-0.4215,0.0,0.823,0.177
+480,The New York Times,"Tyrannosaurus rex wasn’t a quick runner because of its heft, but its lanky limbs ensured it could amble efficiently… https://t.co/qVjlRK0TMW",Sat May 23 21:40:05 +0000 2020,0.0,0.0,1.0,0.0
+481,The New York Times,"Nearly a month after federal scientists claimed that an experimental drug, remdesivir, had helped patients severely… https://t.co/aKwoq9oE7I",Sat May 23 21:30:05 +0000 2020,0.0,0.0,1.0,0.0
+482,The New York Times,"Amazon and other companies are planning to test workers for the coronavirus. But there is little federal guidance,… https://t.co/WNk5cdqojZ",Sat May 23 21:20:02 +0000 2020,0.09,0.07,0.93,0.0
+483,The New York Times,"Here’s what we know about your chances of catching the virus outdoors, with simple tips from experts for reducing y… https://t.co/nDINjyhcmy",Sat May 23 21:00:18 +0000 2020,0.2023,0.083,0.917,0.0
+484,The New York Times,"“People come together, but separate, in cars,” a pastor who leads drive-in church services said. “There is an emoti… https://t.co/KYiZDF4Vff",Sat May 23 20:30:08 +0000 2020,0.0,0.0,1.0,0.0
+485,The New York Times,"As the gradual reopening of the U.S. feeds momentum for a return of sports, some athletes must consider their own u… https://t.co/L6HMgPBEs6",Sat May 23 20:00:08 +0000 2020,0.0,0.0,1.0,0.0
+486,The New York Times,About 150 firefighters battled a 4-alarm blaze that destroyed a quarter of the structures on Pier 45 in San Francis… https://t.co/6Hg3zLADZH,Sat May 23 19:51:01 +0000 2020,-0.6597,0.0,0.779,0.221
+487,The New York Times,"Shootings had dropped sharply in South Jamaica, Queens, after local leaders engineered a cease-fire. Now, the area… https://t.co/q0qyrWOe9Q",Sat May 23 19:40:03 +0000 2020,0.0,0.0,1.0,0.0
+488,The New York Times,"""Quarantine didn’t just take things away; it revealed — with a harsh, unrelenting clarity — what had already been l… https://t.co/cHAbA6zSk7",Sat May 23 19:20:05 +0000 2020,-0.0516,0.11,0.772,0.118
+489,The New York Times,"RT @MarkLandler: Dominic Cummings, the political Svengali behind Boris Johnson, drove 260 miles to his parents’ house while sick with Covid…",Sat May 23 19:14:09 +0000 2020,-0.5106,0.0,0.858,0.142
+490,The New York Times,"Prizes for this year’s Cannes Film Festival would have been announced today, but the festival was canceled because… https://t.co/sa4l52qvxS",Sat May 23 19:10:03 +0000 2020,0.8126,0.344,0.656,0.0
+491,The New York Times,China on Saturday reported no new coronavirus deaths or symptomatic cases for the first time since the virus emerge… https://t.co/KIEyNbzB3x,Sat May 23 19:00:06 +0000 2020,-0.296,0.0,0.896,0.104
+492,The New York Times,"The coronavirus pandemic, which has killed 325,000 people so far, is colliding with another global menace: a fast-h… https://t.co/pm15wTbBOG",Sat May 23 18:40:03 +0000 2020,-0.8578,0.0,0.628,0.372
+493,The New York Times,The Transportation Department said late Friday that it would tentatively allow 15 airlines to stop flights to about… https://t.co/bM7fKgghbs,Sat May 23 18:28:46 +0000 2020,-0.0772,0.09,0.806,0.104
+494,The New York Times,"In Opinion
+
+""To envision New York as a moonscape of nothing but the few major franchises that can fund a long loss,… https://t.co/0vWCAhEDlu",Sat May 23 18:15:10 +0000 2020,0.0,0.0,1.0,0.0
+495,The New York Times,"The coronavirus has upended the plans and priorities of many, including the European Union. One of the biggest casu… https://t.co/FnTFS5Mx5O",Sat May 23 17:50:06 +0000 2020,0.0,0.0,1.0,0.0
+496,The New York Times,The N.B.A. is in the early stages of discussions with the Walt Disney Company to restart its season in late July at… https://t.co/z4oWyvoG4G,Sat May 23 17:40:04 +0000 2020,0.0,0.0,1.0,0.0
+497,The New York Times,RT @xanalter: I've been following a strange copyright case that began when a writer in a kinky genre called Omegaverse accused another writ…,Sat May 23 17:30:09 +0000 2020,-0.4588,0.0,0.84,0.16
+498,The New York Times,"""This is a Ramadan like no other. The pandemic, which in Kenya has infected at least 1,109 people and killed at lea… https://t.co/2Q9EmG1a0s",Sat May 23 17:21:08 +0000 2020,-0.8126,0.08,0.605,0.315
+499,The New York Times,"RT @NYTmag: We asked writers, artists, photographers to tell us what they learned in quarantine. From learning to play the piano to inventi…",Sat May 23 17:10:05 +0000 2020,0.34,0.098,0.902,0.0
