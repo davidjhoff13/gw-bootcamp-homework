@@ -1,67 +1,46 @@
-// from data.js
-var tableData = data;
+// Get a reference to the table body
+var tbody = d3.select("tbody");
+
+// Console.log the weather data from data.js
+console.log(data);
 
 
-
-var datetime = tableData.map(function (ufos) {
-    return ufos.datetime;
+// Use arrow function to import data to html
+data.forEach((UFOtable) => {
+    var row = tbody.append("tr");
+    Object.entries(UFOtable).forEach(([key, value]) => {
+        var cell = row.append("td");
+        cell.text(value);
+    });
 });
 
-var city = tableData.map(function (ufos) {
-    return ufos.city;
-});
+var button = d3.select("#filter-btn");
 
-var state = tableData.map(function (ufos) {
-    return ufos.state;
-});
-
-var country = tableData.map(function (ufos) {
-    return ufos.country;
-});
-
-var shape = tableData.map(ufos => ufos.shape);
+button.on("click", runEnter);
 
 
-var duration = tableData.map(ufos => ufos.durationMinutes);
+//Element to target <input class="form-control" id="datetime" type="text">
+function runEnter() {
+    var inputElement = d3.select("#datetime");
+    var inputValue = inputElement.property("value");
+    console.log(inputValue)
+    var filteredData = data.filter(ufo => ufo.datetime == inputValue);
+    console.log(filteredData);
+    var tbody = d3.select("tbody");
+    tbody.html("")
+    filteredData.forEach((ufo) => {
+        var row = tbody.append("tr");
+        Object.entries(ufo).forEach(([key, value]) => {
+            var cell = row.append("td");
+            cell.text(value);
+            
+        });
+    });
+
+}
 
 
-var comments = tableData.map(ufos => ufos.comments);
 
-///https://www.w3schools.com/js/tryit.asp?filename=tryjs_array_loop_foreach  For each loop
-
-///<p id="demo"></p>
-
-   /// <script>
-      ///  var fruits, text;
-       /// fruits = ["Banana", "Orange", "Apple", "Mango"];
-
-///text = "<ul>";
-   ///     fruits.forEach(myFunction);
-///text += "</ul>";
-///document.getElementById("demo").innerHTML = text;
-
-///function myFunction(value) {
-  ///          text += "<li>" + value + "</li>";
-///}
-////</script>
-
-
-///Standard loop
-///<p id="demo"></p>
-
-   /// <script>
-      ///  var fruits, text, fLen, i;
-      ///  fruits = ["Banana", "Orange", "Apple", "Mango"];
-        ////fLen = fruits.length;
-
-////text = "<ul>";
-/////for (i = 0; i < fLen; {
-     ///           text += "<li>" + fruits[i] + "</li>";
-///}
-///text += "</ul>";
-
-///document.getElementById("demo").innerHTML = text;
-////</script>
 
 
 
