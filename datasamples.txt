@@ -1,0 +1,82 @@
+
+Deaths
+The Atlantic: 140k
+NYT: 148K
+CDC: 146,546K
+Kaiser Family Fdn: 147K
+
+
+The Atlantic
+documentation: https://covidtracking.com/data/api
+https://covidtracking.com/api/v1/us/daily.json
+data goes back to 1/22/20
+{
+date: 20200726,
+states: 56,
+positive: 4220054,
+negative: 47271440,
+pending: 3361,
+hospitalizedCurrently: 58614,
+hospitalizedCumulative: 292782,
+inIcuCurrently: 10268,
+inIcuCumulative: 13343,
+onVentilatorCurrently: 2723,
+onVentilatorCumulative: 1336,
+recovered: 1297863,
+dateChecked: "2020-07-26T00:00:00Z",
+death: 139250,
+hospitalized: 292782,
+lastModified: "2020-07-26T00:00:00Z",
+total: 51494855,
+totalTestResults: 51491494,
+posNeg: 51491494,
+deathIncrease: 558,
+hospitalizedIncrease: 1435,
+negativeIncrease: 794098,
+positiveIncrease: 61713,
+totalTestResultsIncrease: 855811,
+hash: "650a021d40ed214b1c49473db2acca6fd3ad3d93"
+},
+
+https://covidtracking.com/api/v1/us/current.json
+single array like the one above for the current date
+
+
+State by state for every day 
+https://covidtracking.com/api/v1/states/daily.json
+
+
+Johns Hopkins
+Active cases by county
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/07-28-2020.csv
+Also includes international data that we don't need
+
+New York Times 
+https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+
+historical data
+date, county, state, fips, cases, deaths
+
+
+us-counties.csv
+
+
+
+https://github.com/nytimes/covid-19-data/tree/master/live
+
+daily updates; no historical data 
+
+columns
+date
+county
+state
+fips
+cases
+deaths
+confirmed_cases
+confirmed_deaths
+probable_cases
+probable_deaths
+
+
+

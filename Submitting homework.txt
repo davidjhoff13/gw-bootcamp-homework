@@ -1,0 +1,25 @@
+Submitting homework to GitHub
+
+In Gitbash, 
+
+cd desktop, etc. to get to correct folder
+
+git add .
+
+git commit -m 'INSERT MESSAGE'
+
+git push
+
+Go to GitHub
+
+Copy URL to folder
+
+Login to Bootcampspot
+
+Go to the assignment.
+
+Paste url into correct place
+
+Click on 'Add URL'
+
+Click on Submit
